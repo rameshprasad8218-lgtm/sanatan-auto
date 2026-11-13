@@ -3,11 +3,15 @@ on:
   push:
     paths: ['meta/imgtest.trigger']
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   gen:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - run: python3 scripts/genimg.py meta/imgtest.json out
-      - uses: actions/upload-artifact@v4
-        with: {name: imgtest, path: out}
+      - run: |
+          mkdir -p gen/imgtest && cp out/*.jpg gen/imgtest/
+          git config user.name "sanatan-bot"; git config user.email "bot@users.noreply.github.com"
+          git add gen && git commit -m "imgtest images" && git pull --rebase -q && git push
