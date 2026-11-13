@@ -35,4 +35,11 @@ for v in q:
             print("comment failed:", e)
     v["status"], v["video_id"] = "uploaded", vid
     print("uploaded", v["file"], vid)
+for v in q:
+    if v.get("status") == "uploaded" and v.get("publish_now") and not v.get("published"):
+        yt.videos().update(part="status", body={"id": v["video_id"], "status": {
+            "privacyStatus": "public", "selfDeclaredMadeForKids": False,
+            "embeddable": True, "publicStatsViewable": True}}).execute()
+        v["published"] = True
+        print("published now", v["video_id"])
 json.dump(q, open(qpath, "w"), ensure_ascii=False, indent=1)
