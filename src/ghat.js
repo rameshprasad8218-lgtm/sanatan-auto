@@ -79,3 +79,33 @@ export function soop(t, cx, cy, s = 1) {
   for (const [x, y, r] of [[-150, 60, 0.2], [-20, 68, -0.1], [90, 62, 0.15], [170, 70, -0.2], [-80, 40, 0.05]]) { ctx.save(); ctx.translate(x, y); ctx.rotate(r); const g = ctx.createLinearGradient(0, -22, 0, 22); g.addColorStop(0, '#E8A850'); g.addColorStop(1, '#9A5A1E'); ctx.fillStyle = g; ctx.beginPath(); ctx.roundRect(-46, -22, 92, 44, 16); ctx.fill(); ctx.strokeStyle = '#4A2A0C'; ctx.lineWidth = 3; ctx.stroke(); ctx.strokeStyle = 'rgba(70,35,10,0.5)'; ctx.beginPath(); ctx.moveTo(-26, -8); ctx.lineTo(26, 8); ctx.moveTo(-26, 8); ctx.lineTo(26, -8); ctx.stroke(); ctx.restore(); }
   diya(0, -6, 1.5, t, 7); ctx.restore();
 }
+/** mother with child on her hip, silhouette, optional folded-hand bow */
+export function motherChild(t, x, y, s = 1) {
+  ctx.save(); ctx.translate(x, y + Math.sin(t * 1.2) * 2); ctx.scale(s, s);
+  ctx.fillStyle = '#1A0F1E'; ctx.beginPath(); ctx.moveTo(-60, 300); ctx.quadraticCurveTo(-80, 40, -22, -40); ctx.lineTo(22, -40); ctx.quadraticCurveTo(80, 40, 60, 300); ctx.closePath(); ctx.fill();
+  ctx.fillStyle = '#7A1E2A'; ctx.beginPath(); ctx.moveTo(-26, -40); ctx.quadraticCurveTo(10, -70, 64, 40); ctx.lineTo(50, 60); ctx.quadraticCurveTo(10, -10, -26, -20); ctx.fill();
+  ctx.fillStyle = '#1A0F1E'; ctx.beginPath(); ctx.arc(0, -78, 34, 0, TAU); ctx.fill();
+  ctx.beginPath(); ctx.arc(62, -22, 22, 0, TAU); ctx.fill(); ctx.beginPath(); ctx.ellipse(66, 22, 22, 34, 0.1, 0, TAU); ctx.fill();
+  ctx.globalCompositeOperation = 'lighter'; ctx.strokeStyle = 'rgba(255,170,90,0.45)'; ctx.lineWidth = 5; ctx.beginPath(); ctx.moveTo(-18, -110); ctx.quadraticCurveTo(-50, -80, -22, -40); ctx.quadraticCurveTo(-72, 40, -58, 280); ctx.stroke();
+  ctx.restore();
+}
+/** clay chulha with pot and live flames */
+export function chulha(t, cx, cy, s = 1) {
+  glow(cx, cy - 80 * s, 560 * s, 'rgba(255,120,40,0.4)');
+  ctx.save(); ctx.translate(cx, cy); ctx.scale(s, s);
+  ctx.fillStyle = vg(-120, 120, [[0, '#8A5A3A'], [1, '#3E2414']]); ctx.beginPath(); ctx.moveTo(-230, 120); ctx.quadraticCurveTo(-240, -60, -140, -110); ctx.lineTo(140, -110); ctx.quadraticCurveTo(240, -60, 230, 120); ctx.closePath(); ctx.fill(); ctx.strokeStyle = '#1E0E06'; ctx.lineWidth = 6; ctx.stroke();
+  ctx.fillStyle = '#120804'; ctx.beginPath(); ctx.ellipse(0, 40, 120, 80, 0, Math.PI, 0); ctx.fill();
+  for (let i = 0; i < 5; i++) { const fx = -90 + i * 45, h = 120 + 50 * Math.sin(t * 9 + i * 2) + 30 * Math.sin(t * 17 + i); const g = ctx.createRadialGradient(fx, 40, 4, fx, 40 - h / 2, h); g.addColorStop(0, '#FFF2B0'); g.addColorStop(0.5, '#FF9A2A'); g.addColorStop(1, 'rgba(255,60,10,0)');
+    ctx.fillStyle = g; ctx.beginPath(); ctx.moveTo(fx - 26, 40); ctx.quadraticCurveTo(fx - 20, 40 - h * 0.6, fx, 40 - h); ctx.quadraticCurveTo(fx + 20, 40 - h * 0.6, fx + 26, 40); ctx.fill(); }
+  ctx.fillStyle = vg(-250, -100, [[0, '#6A6A72'], [1, '#2A2A30']]); ctx.beginPath(); ctx.ellipse(0, -112, 150, 36, 0, 0, TAU); ctx.fill(); ctx.beginPath(); ctx.moveTo(-150, -112); ctx.quadraticCurveTo(-170, -250, -90, -270); ctx.lineTo(90, -270); ctx.quadraticCurveTo(170, -250, 150, -112); ctx.fill();
+  ctx.restore();
+  for (let i = 0; i < 18; i++) { const p = (t * 0.5 + rnd(i)) % 1; ctx.save(); ctx.globalCompositeOperation = 'lighter'; ctx.fillStyle = `rgba(255,170,60,${0.8 * (1 - p)})`; ctx.beginPath(); ctx.arc(cx + (rnd(i + 4) - 0.5) * 200 + Math.sin(p * 6 + i) * 30, cy - 120 * s - p * 520, 3 + rnd(i) * 3, 0, TAU); ctx.fill(); ctx.restore(); }
+}
+/** tray of wheat drying in sunlight */
+export function wheat(t, cx, cy, s = 1) {
+  ctx.save(); ctx.translate(cx, cy); ctx.scale(s, s);
+  ctx.fillStyle = vg(-20, 120, [[0, '#D9A860'], [1, '#8A5A24']]); ctx.beginPath(); ctx.ellipse(0, 40, 380, 120, 0, 0, TAU); ctx.fill(); ctx.strokeStyle = '#3A2410'; ctx.lineWidth = 6; ctx.stroke();
+  ctx.save(); ctx.beginPath(); ctx.ellipse(0, 36, 360, 104, 0, 0, TAU); ctx.clip(); ctx.fillStyle = '#E8C266'; ctx.fillRect(-380, -80, 760, 240);
+  for (let i = 0; i < 420; i++) { const x = (rnd(i) - 0.5) * 720, y = (rnd(i + 7) - 0.5) * 200 + 36; ctx.fillStyle = rnd(i + 3) < 0.5 ? '#C9962E' : '#F4DC8C'; ctx.beginPath(); ctx.ellipse(x, y, 7, 3, rnd(i + 9) * 3, 0, TAU); ctx.fill(); } ctx.restore();
+  ctx.restore(); glow(cx, cy - 40, 520 * s, 'rgba(255,210,120,0.25)');
+}

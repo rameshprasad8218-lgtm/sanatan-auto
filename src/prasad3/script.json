@@ -1,0 +1,66 @@
+{
+ "title": "Chhath ka prasad",
+ "series": "SANATAN DHARM",
+ "episode": "CHHATH · PRASAD KA RAAZ",
+ "voice": "hm_omega",
+ "speed": 1.0,
+ "lead": 0.3,
+ "outro": 1.0,
+ "gap": 0.28,
+ "music": "bed",
+ "sources": [
+  "Lok manyata / parampara of Chhath Puja"
+ ],
+ "lines": [
+  {
+   "text": "Chhath ke prasad mein, ek cheez kabhi nahi daali jaati.",
+   "say": "छठ के प्रसाद में, एक चीज़ कभी नहीं डाली जाती.",
+   "caps": "Chhath ke *prasad mein | ek cheez | *kabhi nahi | daali jaati"
+  },
+  {
+   "text": "Na pyaaz, na lehsun.",
+   "say": "ना प्याज़, ना लहसुन.",
+   "caps": "Na *pyaaz | na *lehsun"
+  },
+  {
+   "text": "Thekua banta hai gehun ke aate, gud aur ghee se,",
+   "say": "ठेकुआ बनता है गेहूँ के आटे, गुड़ और घी से,",
+   "caps": "*Thekua | banta hai | gehun ke aate | *gud aur ghee se"
+  },
+  {
+   "text": "mitti ke chulhe par, aam ki lakdi ki aanch mein.",
+   "say": "मिट्टी के चूल्हे पर, आम की लकड़ी की आँच में.",
+   "caps": "*Mitti ke chulhe | par | aam ki lakdi | ki *aanch mein"
+  },
+  {
+   "text": "Gehun ko pehle dhoya jaata hai, phir dhoop mein sukhaya jaata hai,",
+   "say": "गेहूँ को पहले धोया जाता है, फिर धूप में सुखाया जाता है,",
+   "caps": "Gehun ko | pehle *dhoya | phir *dhoop mein | sukhaya jaata hai"
+  },
+  {
+   "text": "aur is dauran koi jootha na kare, isliye pehra dete hain.",
+   "say": "और इस दौरान कोई जूठा न करे, इसलिए पहरा देते हैं.",
+   "caps": "Is dauran | koi *jootha na kare | isliye *pehra | dete hain"
+  },
+  {
+   "text": "Soop mein sajte hain mausami phal aur ganna,",
+   "say": "सूप में सजते हैं मौसमी फल और गन्ना,",
+   "caps": "*Soop mein | sajte hain | mausami *phal | aur *ganna"
+  },
+  {
+   "text": "jo seedha dharti aur suraj ki den hain.",
+   "say": "जो सीधा धरती और सूरज की देन हैं.",
+   "caps": "Jo seedha | *dharti | aur *suraj | ki den hain"
+  },
+  {
+   "text": "Isiliye Chhath ka prasad, sirf mithai nahi, shraddha hai.",
+   "say": "इसीलिए छठ का प्रसाद, सिर्फ़ मिठाई नहीं, श्रद्धा है.",
+   "caps": "Isiliye | Chhath ka *prasad | sirf mithai nahi | *shraddha hai"
+  },
+  {
+   "text": "Isiliye uska swaad, kahin aur nahi milta.",
+   "say": "इसीलिए उसका स्वाद, कहीं और नहीं मिलता.",
+   "caps": "Isiliye | uska *swaad | kahin aur | *nahi milta"
+  }
+ ]
+}

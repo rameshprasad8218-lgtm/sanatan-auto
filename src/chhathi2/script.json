@@ -1,0 +1,61 @@
+{
+ "title": "Chhathi Maiya kaun hain",
+ "series": "SANATAN DHARM",
+ "episode": "CHHATH · CHHATHI MAIYA",
+ "voice": "hm_omega",
+ "speed": 1.0,
+ "lead": 0.3,
+ "outro": 1.0,
+ "gap": 0.28,
+ "music": "bed",
+ "sources": [
+  "Lok manyata / parampara of Chhath Puja"
+ ],
+ "lines": [
+  {
+   "text": "Chhath mein jis devi ki puja hoti hai, wo kaun hain?",
+   "say": "छठ में जिस देवी की पूजा होती है, वो कौन हैं?",
+   "caps": "Chhath mein | jis *devi ki puja | wo *kaun hain"
+  },
+  {
+   "text": "Chhathi Maiya.",
+   "say": "छठी मैया.",
+   "caps": "*Chhathi | *Maiya"
+  },
+  {
+   "text": "Lok manyata hai, wo Surya Dev ki behen hain,",
+   "say": "लोक मान्यता है, वो सूर्य देव की बहन हैं,",
+   "caps": "Lok manyata hai | wo *Surya Dev | ki *behen hain"
+  },
+  {
+   "text": "aur bachchon ki raksha karti hain.",
+   "say": "और बच्चों की रक्षा करती हैं.",
+   "caps": "Aur *bachchon ki | *raksha | karti hain"
+  },
+  {
+   "text": "Isiliye vrati apni santaan ki lambi umar ke liye vrat rakhti hain.",
+   "say": "इसीलिए व्रती अपनी संतान की लंबी उम्र के लिए व्रत रखती हैं.",
+   "caps": "Isiliye *vrati | apni santaan ki | *lambi umar | ke liye vrat"
+  },
+  {
+   "text": "Kartik shukla shashthi, yaani mahine ka chhatha din, unka din hai.",
+   "say": "कार्तिक शुक्ल षष्ठी, यानी महीने का छठा दिन, उनका दिन है.",
+   "caps": "Kartik shukla | *shashthi | yaani mahine ka | *chhatha din | unka din hai"
+  },
+  {
+   "text": "Isiliye is parv ka naam padha, Chhath.",
+   "say": "इसीलिए इस पर्व का नाम पड़ा, छठ.",
+   "caps": "Isiliye | parv ka naam | padha *Chhath"
+  },
+  {
+   "text": "Jab ghat pe goonje Jai Chhathi Maiya,",
+   "say": "जब घाट पे गूँजे जय छठी मैया,",
+   "caps": "Jab *ghat pe | goonje | *Jai Chhathi Maiya"
+  },
+  {
+   "text": "to samajh lena, ek maa apni santaan ke liye khadi hai.",
+   "say": "तो समझ लेना, एक माँ अपनी संतान के लिए खड़ी है.",
+   "caps": "To *samajh lena | ek *maa | apni santaan | ke liye *khadi hai"
+  }
+ ]
+}
