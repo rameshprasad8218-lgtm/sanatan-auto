@@ -1,0 +1,26 @@
+{
+ "title": "Chhath Sandhya Arghya - doobte suraj ko pehla arghya kyun",
+ "series": "SANATAN DHARM",
+ "episode": "CHHATH · SANDHYA ARGHYA",
+ "voice": "hm_omega",
+ "speed": 1.0,
+ "lead": 0.3,
+ "outro": 1.0,
+ "gap": 0.28,
+ "music": "bed",
+ "sources": ["Chhath Puja manyata: Usha (subah ki kiran) aur Pratyusha (shaam ki kiran) Surya Dev ki shaktiyan hain; pehla arghya Sandhya ko, doosra Usha ko."],
+ "lines": [
+  { "text": "Duniya ugte suraj ko salaam karti hai.", "say": "दुनिया उगते सूरज को सलाम करती है.", "caps": "Duniya *ugte suraj | ko salaam karti hai" },
+  { "text": "Par Chhath mein pehla arghya, doobte suraj ko kyun?", "say": "पर छठ में पहला अर्घ्य, डूबते सूरज को क्यों?", "caps": "Par Chhath mein | pehla *arghya | *doobte suraj | ko kyun" },
+  { "text": "Aaj shaam, ghat pe lakhon diye jale hain,", "say": "आज शाम, घाट पे लाखों दीये जले हैं,", "caps": "Aaj shaam | ghat pe | *lakhon diye | jale hain" },
+  { "text": "vrati kamar tak paani mein khade hain,", "say": "व्रती कमर तक पानी में खड़े हैं,", "caps": "*Vrati | kamar tak | paani mein khade" },
+  { "text": "haath mein soop, aur aankhon mein shraddha.", "say": "हाथ में सूप, और आँखों में श्रद्धा.", "caps": "Haath mein *soop | aur aankhon mein | *shraddha" },
+  { "text": "Manyata hai, shaam ki kiran Pratyusha hain,", "say": "मान्यता है, शाम की किरण प्रत्यूषा हैं,", "caps": "Manyata hai | shaam ki kiran | *Pratyusha hain" },
+  { "text": "aur subah ki kiran Usha, suraj ki do shaktiyan.", "say": "और सुबह की किरण ऊषा, सूरज की दो शक्तियाँ.", "caps": "Subah ki kiran | *Usha | suraj ki | *do shaktiyan" },
+  { "text": "Isiliye pehla arghya, shaam ko.", "say": "इसीलिए पहला अर्घ्य, शाम को.", "caps": "Isiliye | pehla *arghya | shaam ko" },
+  { "text": "Chhath sikhata hai,", "say": "छठ सिखाता है,", "caps": "Chhath | *sikhata hai" },
+  { "text": "jo dhal raha hai, uska bhi sammaan karo.", "say": "जो ढल रहा है, उसका भी सम्मान करो.", "caps": "Jo *dhal raha hai | uska bhi | *sammaan karo" },
+  { "text": "Kal subah, wahi suraj phir ugega.", "say": "कल सुबह, वही सूरज फिर उगेगा.", "caps": "Kal subah | wahi suraj | phir *ugega" },
+  { "text": "Par Chhath, doobte ko bhi salaam karta hai.", "say": "पर छठ, डूबते को भी सलाम करता है.", "caps": "Par *Chhath | doobte ko bhi | *salaam karta hai" }
+ ]
+}
