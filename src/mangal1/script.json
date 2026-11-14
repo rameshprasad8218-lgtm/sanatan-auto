@@ -1,0 +1,182 @@
+{
+ "title": "Driver Mangalwar ko chicken kyu nahi khata",
+ "voice": "hm_omega",
+ "speed": 1.08,
+ "lead": 0.2,
+ "outro": 0.8,
+ "gap": 0.12,
+ "music": "audio/flute.wav",
+ "sources": [
+  "Lok manyata / vyaktigat aastha; Mangalwar Hanuman ji ka din mana jata hai"
+ ],
+ "lines": [
+  {
+   "text": "WHY DOES A DRIVER SKIP CHICKEN ON TUESDAY?",
+   "say": "ड्राइवर मंगलवार को चिकन क्यों नहीं खाता?",
+   "hi": "ड्राइवर मंगलवार को चिकन क्यों नहीं खाता?",
+   "en": "WHY DOES A DRIVER SKIP CHICKEN ON TUESDAY?"
+  },
+  {
+   "text": "IT IS NOT JUST FEAR.",
+   "say": "ये सिर्फ़ डर नहीं है.",
+   "hi": "ये सिर्फ़ डर नहीं है.",
+   "en": "IT IS NOT JUST FEAR."
+  },
+  {
+   "text": "THERE IS A FAITH BEHIND IT.",
+   "say": "इसके पीछे एक भरोसा है.",
+   "hi": "इसके पीछे एक भरोसा है.",
+   "en": "THERE IS A FAITH BEHIND IT."
+  },
+  {
+   "text": "TUESDAY IS HANUMAN JI'S DAY.",
+   "say": "मंगलवार हनुमान जी का दिन है.",
+   "hi": "मंगलवार हनुमान जी का दिन है.",
+   "en": "TUESDAY IS HANUMAN JI'S DAY."
+  },
+  {
+   "text": "A DRIVER IS ON THE ROAD EVERY DAY.",
+   "say": "ट्रक ड्राइवर रोज़ सड़क पर होता है.",
+   "hi": "ट्रक ड्राइवर रोज़ सड़क पर होता है.",
+   "en": "A DRIVER IS ON THE ROAD EVERY DAY."
+  },
+  {
+   "text": "THE ROAD HAS MANY DANGERS.",
+   "say": "रास्ते में ख़तरे कम नहीं होते.",
+   "hi": "रास्ते में ख़तरे कम नहीं होते.",
+   "en": "THE ROAD HAS MANY DANGERS."
+  },
+  {
+   "text": "NIGHT TRIPS, GHAT ROADS.",
+   "say": "रात का सफ़र, घाट की सड़कें.",
+   "hi": "रात का सफ़र, घाट की सड़कें.",
+   "en": "NIGHT TRIPS, GHAT ROADS."
+  },
+  {
+   "text": "IN SUCH TIMES YOU NEED FAITH.",
+   "say": "ऐसे में भरोसा चाहिए.",
+   "hi": "ऐसे में भरोसा चाहिए.",
+   "en": "IN SUCH TIMES YOU NEED FAITH."
+  },
+  {
+   "text": "SO MANY DRIVERS REMEMBER HANUMAN JI.",
+   "say": "इसलिए कई ड्राइवर हनुमान जी को याद करते हैं.",
+   "hi": "इसलिए कई ड्राइवर हनुमान जी को याद करते हैं.",
+   "en": "SO MANY DRIVERS REMEMBER HANUMAN JI."
+  },
+  {
+   "text": "'JAI BAJRANGBALI' IS WRITTEN ON TRUCKS.",
+   "say": "ट्रक पर जय बजरंगबली लिखा होता है.",
+   "hi": "ट्रक पर जय बजरंगबली लिखा होता है.",
+   "en": "'JAI BAJRANGBALI' IS WRITTEN ON TRUCKS."
+  },
+  {
+   "text": "ON TUESDAYS THEY KEEP A FAST.",
+   "say": "मंगलवार को वो व्रत रखते हैं.",
+   "hi": "मंगलवार को वो व्रत रखते हैं.",
+   "en": "ON TUESDAYS THEY KEEP A FAST."
+  },
+  {
+   "text": "OR EAT ONLY SIMPLE FOOD.",
+   "say": "या सिर्फ़ सादा खाना खाते हैं.",
+   "hi": "या सिर्फ़ सादा खाना खाते हैं.",
+   "en": "OR EAT ONLY SIMPLE FOOD."
+  },
+  {
+   "text": "THEY BOW AT EVERY TEMPLE.",
+   "say": "मंदिर दिखे तो सिर झुकाते हैं.",
+   "hi": "मंदिर दिखे तो सिर झुकाते हैं.",
+   "en": "THEY BOW AT EVERY TEMPLE."
+  },
+  {
+   "text": "SIMPLE FOOD MEANS SATTVIC.",
+   "say": "सादा खाना यानी सात्विक.",
+   "hi": "सादा खाना यानी सात्विक.",
+   "en": "SIMPLE FOOD MEANS SATTVIC."
+  },
+  {
+   "text": "DAL, ROTI, SABZI.",
+   "say": "दाल, रोटी, सब्ज़ी.",
+   "hi": "दाल, रोटी, सब्ज़ी.",
+   "en": "DAL, ROTI, SABZI."
+  },
+  {
+   "text": "MANY ALSO SKIP ONION AND GARLIC.",
+   "say": "कई लोग प्याज़ लहसुन भी छोड़ देते हैं.",
+   "hi": "कई लोग प्याज़ लहसुन भी छोड़ देते हैं.",
+   "en": "MANY ALSO SKIP ONION AND GARLIC."
+  },
+  {
+   "text": "THEY SEE IT AS SELF-DISCIPLINE.",
+   "say": "वो इसे मन का अनुशासन मानते हैं.",
+   "hi": "वो इसे मन का अनुशासन मानते हैं.",
+   "en": "THEY SEE IT AS SELF-DISCIPLINE."
+  },
+  {
+   "text": "ONE DAY OF RESTRAINT, A WEEK OF COURAGE.",
+   "say": "एक दिन का संयम, पूरे हफ़्ते का हौसला.",
+   "hi": "एक दिन का संयम, पूरे हफ़्ते का हौसला.",
+   "en": "ONE DAY OF RESTRAINT, A WEEK OF COURAGE."
+  },
+  {
+   "text": "THIS IS NOT A RULE FOR EVERYONE.",
+   "say": "ये हर किसी के लिए नियम नहीं है.",
+   "hi": "ये हर किसी के लिए नियम नहीं है.",
+   "en": "THIS IS NOT A RULE FOR EVERYONE."
+  },
+  {
+   "text": "IT IS A MATTER OF PERSONAL FAITH.",
+   "say": "ये अपनी अपनी आस्था की बात है.",
+   "hi": "ये अपनी अपनी आस्था की बात है.",
+   "en": "IT IS A MATTER OF PERSONAL FAITH."
+  },
+  {
+   "text": "SOME EAT, SOME DON'T.",
+   "say": "कोई खाता है, कोई नहीं.",
+   "hi": "कोई खाता है, कोई नहीं.",
+   "en": "SOME EAT, SOME DON'T."
+  },
+  {
+   "text": "BUT THE FAITH IS THE SAME.",
+   "say": "पर भरोसा सबका एक है.",
+   "hi": "पर भरोसा सबका एक है.",
+   "en": "BUT THE FAITH IS THE SAME."
+  },
+  {
+   "text": "TO RETURN HOME SAFE.",
+   "say": "सुरक्षित घर लौटना.",
+   "hi": "सुरक्षित घर लौटना.",
+   "en": "TO RETURN HOME SAFE."
+  },
+  {
+   "text": "SOMEONE IS WAITING AT HOME.",
+   "say": "घर पर कोई इंतज़ार कर रहा है.",
+   "hi": "घर पर कोई इंतज़ार कर रहा है.",
+   "en": "SOMEONE IS WAITING AT HOME."
+  },
+  {
+   "text": "THAT IS WHY HANDS FOLD BEFORE THE JOURNEY.",
+   "say": "इसीलिए सफ़र से पहले हाथ जुड़ते हैं.",
+   "hi": "इसीलिए सफ़र से पहले हाथ जुड़ते हैं.",
+   "en": "THAT IS WHY HANDS FOLD BEFORE THE JOURNEY."
+  },
+  {
+   "text": "WHAT DO YOU DO ON TUESDAYS?",
+   "say": "आप मंगलवार को क्या करते हैं?",
+   "hi": "आप मंगलवार को क्या करते हैं?",
+   "en": "WHAT DO YOU DO ON TUESDAYS?"
+  },
+  {
+   "text": "TELL US IN THE COMMENTS.",
+   "say": "कमेंट में बताइए.",
+   "hi": "कमेंट में बताइए.",
+   "en": "TELL US IN THE COMMENTS."
+  },
+  {
+   "text": "JAI BAJRANGBALI.",
+   "say": "जय बजरंगबली.",
+   "hi": "जय बजरंगबली.",
+   "en": "JAI BAJRANGBALI."
+  }
+ ]
+}
