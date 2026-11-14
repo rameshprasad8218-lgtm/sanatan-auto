@@ -36,6 +36,12 @@ for v in q:
     v["status"], v["video_id"] = "uploaded", vid
     print("uploaded", v["file"], vid)
 for v in q:
+    if v.get("status") == "uploaded" and v.get("reschedule_to") and v.get("video_id"):
+        pub = datetime.datetime.fromisoformat(v["reschedule_to"])
+        yt.videos().update(part="status", body={"id": v["video_id"], "status": {"privacyStatus": "private",
+            "publishAt": pub.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "selfDeclaredMadeForKids": False}}).execute()
+        v["publish_at"] = v.pop("reschedule_to"); print("rescheduled", v["video_id"], v["publish_at"])
+for v in q:
     if v.get("status") == "uploaded" and v.get("publish_now") and not v.get("published"):
         yt.videos().update(part="status", body={"id": v["video_id"], "status": {
             "privacyStatus": "public", "selfDeclaredMadeForKids": False,
