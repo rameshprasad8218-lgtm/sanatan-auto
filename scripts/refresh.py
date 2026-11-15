@@ -11,13 +11,14 @@ FOOT = "\n\n📌 रोज़ 3 नई कहानियाँ: दोपहर
 q = json.load(open("meta/queue.json"))
 for v in q:
     vid = v.get("video_id")
-    if not vid or v.get("refreshed"): continue
+    if not vid or (v.get("refreshed") and v.get("thumb_done")): continue
     n = v["file"].split("/")[-1][:2]
     th = f"thumbs/{n}.jpg"
     try:
         if os.path.exists(th):
-            yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(th, mimetype="image/jpeg")).execute(); print(n, "thumbnail ok")
+            yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(th, mimetype="image/jpeg")).execute(); v["thumb_done"] = True; print(n, "thumbnail ok")
     except HttpError as e: print(n, "thumbnail FAIL", e.resp.status, str(e)[:160])
+    if v.get("refreshed"): continue
     try:
         cur = yt.videos().list(part="snippet", id=vid).execute()["items"][0]["snippet"]
         desc = v["description"] + (FOOT if "रोज़ 3 नई कहानियाँ" not in cur.get("description", "") else "")
