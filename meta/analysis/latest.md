@@ -1,53 +1,54 @@
-# Sanatan Dharm — Daily Analysis (2026-11-14)
+# Sanatan Dharm — Daily Analysis (2026-11-15)
 
-Next 2 days = 15-16 Nov. Already posted (not repeated): Chhathi Maiya, Doobte Suraj ko Arghya, Karna Surya (queue.json); stories Kharna/Kheer/Nirjala exist in src/.
+Window: next 2 days = 16-17 Nov (Dev Uthani is Fri 20 Nov, so these two days are the "build-up" slot; date/upay content can wait till 18-19 Nov).
+Already posted/queued (not repeated): Chhathi Maiya (x2), Doobte Suraj/Sandhya Arghya (x2), Karna Surya, Kharna, Kharna Kheer, Nirjala Vrat, Chhath Prasad/Thekua, Mangalwar chicken (queue.json, items 05-14). Also avoid re-using last report's angles unless noted.
 
 ## Top 6 topic ideas
-1. **Dev Uthani Ekadashi: 20 ya 21 Nov?**
-   - Hook (Hi): "देवउठनी एकादशी 20 को या 21 को? ज़्यादातर लोग गलत दिन व्रत खोल देते हैं!"
-   - Why: the 20-vs-21 confusion is the exact angle of 2 of the fastest Hindi Shorts this week (Be Sanatani ~8.5k views/hr, Siddha Jyotish ~8.4k views/hr). Search-intent, timely.
-   - Fact basis: Dev Uthani Ekadashi Fri 20 Nov 2026 (GaneshaSpeaks, HinduTone). Tulsi Vivah Sat 21 Nov. Say "तिथि के अनुसार 20 नवंबर; वैष्णव/स्मार्त में पारण अलग हो सकता है" — don't claim exact muhurat times.
-2. **वृंदा का श्राप: विष्णु पत्थर (शालिग्राम) क्यों बने?**
+1. **भगवान विष्णु का सिर क्यों कटा? हयग्रीव अवतार** (post 16 Nov)
+   - Hook (Hi): "भगवान विष्णु का सिर कट गया, तो घोड़े का सिर क्यों लगा?"
+   - Why: biggest myth-story velocity right now. Priyansh Shukla (2.6M subs) 5.47M views, ~52.8k views/hr, 3.8% eng.; Real Yash 427k; Future Guru Ji Madhu-Kaitabh 346k. Vishnu-mystery stories beat puja-vidhi on engagement.
+   - Fact basis: Hayagriva avatar in Devi Bhagavata Purana / Hayagriva legend (Vishnu's head severed by his own bowstring, replaced by a horse head; Hayagriva asura slain). Label "पुराणों/मान्यता के अनुसार". Source: vidIQ trending titles/tags (Hayagriva avatar); Puranic detail is tradition, not verified from a primary text here.
+2. **विष्णु 4 महीने क्यों सोते हैं? दुनिया कौन चलाता है?** (16 or 17 Nov)
+   - Hook: "भगवान विष्णु 4 महीने सोते हैं, तब दुनिया कौन चलाता है?"
+   - Why: question hook + Chaturmas ends on Dev Uthani (20 Nov); topic is searched hardest 15-20 Nov and no top competitor is doing the "who runs the world" angle (all do puja vidhi).
+   - Fact basis: Devshayani -> Devutthana Ekadashi = Chaturmas (GaneshaSpeaks Nov calendar: Devutthana Ekadashi Fri 20 Nov; HinduTone same).
+3. **वृंदा का श्राप: विष्णु शालिग्राम पत्थर क्यों बने?** (17 Nov)
    - Hook: "एक पतिव्रता के श्राप से भगवान विष्णु पत्थर बन गए. क्यों?"
-   - Why: Tulsi katha is the top story-format on the trending list (Shraddha Deep ~3.3k views/hr, 44k-sub channel; 3.1% engagement vs 1% for puja-vidhi videos). Emotional character story = our best retention type (Kunti 55.7%).
-   - Fact basis: Vrinda/Jalandhar/Shaligram story from the Puranas (Padma/Shiva Purana tradition) — label as "पुराणों/मान्यता के अनुसार".
-3. **विष्णु 4 महीने क्यों सोते हैं? देवउठनी पर जागते कैसे हैं?**
-   - Hook: "भगवान विष्णु 4 महीने सोते हैं, तो दुनिया कौन चलाता है?"
-   - Why: question hook + curiosity; Chaturmas end = Dev Uthani, peak demand 15-20 Nov.
-   - Fact basis: Devshayani→Devutthana Ekadashi, Chaturmas (Hindu calendar; GaneshaSpeaks/HinduTone for date).
-4. **तुलसी गणेश जी को क्यों नहीं चढ़ती?**
+   - Why: emotional character story (our best retention type; Kunti 55.7%). Tulsi is THE trending subject: Ai storyline Tulsi videos 2.0M and 1.15M views, 4.4-5.5% eng.; Radha Krishna Rahasya Vinita ~24.7k views/hr at 37 s.
+   - Fact basis: Vrinda/Jalandhar/Shaligram katha (Padma/Brahmavaivarta tradition; Be Sanatani tags cite Brahma Vaivarta/Skanda Purana for Tulsi Vivah). Label मान्यता.
+4. **महर्षि भृगु ने विष्णु की छाती पर लात क्यों मारी?** (17 Nov or 18 Nov)
+   - Hook: "ऋषि ने भगवान विष्णु की छाती पर लात मारी, और विष्णु ने क्या किया?"
+   - Why: "Bhrigu's curse/Vishnu helpless" Short by Mahadi Vision (11.9k subs) got 772k views, ~7k views/hr, 4.6% eng. A small channel won, so it is replicable; the forgiveness payoff ("ढलते को भी प्रणाम" tone) fits our audience.
+   - Fact basis: Bhrigu tests the Trimurti, Vishnu's chest mark (Shrivatsa) - Bhagavata Purana tradition; label मान्यता. Competitor stat from vidIQ snapshot.
+5. **देवउठनी एकादशी: 20 या 21 नवंबर? पारण कब?** (post 18-19 Nov)
+   - Hook: "देवउठनी एकादशी 20 को या 21 को? ज़्यादातर लोग गलत दिन व्रत खोलते हैं!"
+   - Why: date-confusion titles are everywhere (Be Sanatani "20 नवंबर ... 5 चीजें + 1 गलती", Radha Krishna "20 नवंबर ...5 उपाय"). Short (30-45 s) versions get 4-25k views/hr from search, so a 35 s Short with year in the title is worth one slot.
+   - Fact basis: Ekadashi Fri 20 Nov, Tulsi Vivah Sat 21 Nov (GaneshaSpeaks). Say "तिथि 20 नवंबर; पारण स्थानीय पंचांग देखें". No muhurat times claimed.
+6. **तुलसी गणेश जी को क्यों नहीं चढ़ती?** (19 Nov)
    - Hook: "सबसे पवित्र तुलसी, फिर भी गणेश जी को क्यों नहीं चढ़ाते?"
-   - Why: taboo/"mistake" framing performs (many top videos use "ये गलती न करें"); ties to Tulsi Vivah week, and is a different story from #2.
-   - Fact basis: Tulsi–Ganesha curse katha (Brahmavaivarta Purana tradition); common puja rule. Label as मान्यता.
-5. **कार्तिक पूर्णिमा / देव दीपावली: शिव ने त्रिपुरासुर को कब मारा?** (post 22-23 Nov, prep now)
-   - Hook: "देव दीपावली पर देवता खुद दीप क्यों जलाते हैं?"
-   - Fact basis: Kartik Purnima & Dev Diwali Tue 24 Nov 2026 (GaneshaSpeaks, HinduTone citing Drik). Tripurantaka story: Shiva Purana.
-6. **वैकुंठ चतुर्दशी (23 Nov): विष्णु ने शिव को 1000 कमल चढ़ाए, एक कम पड़ा तो?**
-   - Hook: "1000 कमल में 1 कम पड़ा, तो विष्णु ने अपनी आँख निकाल ली!"
-   - Why: strong emotional/devotion twist, ends on Sudarshan Chakra payoff; loop-able.
-   - Fact basis: Vaikuntha Chaturdashi Mon 23 Nov (GaneshaSpeaks); lotus/Sudarshan story from Shiva Purana tradition (label मान्यता).
-   - Backup: Kansa Vadh Fri 20 Nov (GaneshaSpeaks) for a Krishna story.
+   - Why: taboo framing + Tulsi Vivah week; Be Sanatani already ranks for "tulsi patta kab nahi todna chahiye" so the Ganesha curse story is the adjacent, less-saturated angle.
+   - Fact basis: Tulsi-Ganesha curse katha (Brahmavaivarta tradition); common puja rule. Label मान्यता.
+   - Backups for 22-24 Nov: वैकुंठ चतुर्दशी (Mon 23 Nov): विष्णु का 1000 कमल / आँख; देव दीपावली (Tue 24 Nov): त्रिपुरासुर वध.
 
-Suggested order: 15 Nov → #1 (timely, urgent) + #3 ; 16 Nov → #2 + #4 ; then #6, #5 on 22-23 Nov.
+Suggested order: 16 Nov -> #1 (13:00), #2 (18:00), #4 (21:00). 17 Nov -> #3 and a second Tulsi-story. 18-19 Nov -> #5, #6.
 
-## Festival calendar (14 Nov – 21 Nov, + just beyond)
-Verified from GaneshaSpeaks (Nov table) and HinduTone; Drik Panchang could not be read, so Dec dates are NOT verified.
-- Sat 14 Nov: Labh Pancham
-- Sun 15 Nov: Chhath Puja (HinduTone lists Chhath 13–16 Nov)
-- Fri 20 Nov: Dev Uthani (Prabodhini) Ekadashi; Kansa Vadh
-- Sat 21 Nov: Tulsi Vivah (HinduTone: 22 Nov for Australia/NZ/SG/MY)
+## Festival calendar (15 Nov - 24 Nov, + just beyond)
+Verified on two pages (GaneshaSpeaks Nov calendar + HinduTone); not checked against Drik Panchang.
+- Sun 15 Nov: Chhath Puja main day (GaneshaSpeaks); HinduTone lists Chhath 13-16 Nov (Usha Arghya = morning 16 Nov per the 4-day span - confirm locally).
+- Fri 20 Nov: Devutthana (Prabodhini) Ekadashi; Kansa Vadh
+- Sat 21 Nov: Tulsi Vivah
 - Mon 23 Nov: Vaikuntha Chaturdashi
-- Tue 24 Nov: Kartik Purnima, Dev Diwali (also Guru Nanak Jayanti – Sikh)
+- Tue 24 Nov: Kartik Purnima + Dev Diwali (Guru Nanak Jayanti)
 - Wed 25 Nov: Rohini Vrat
-- Karthika Masam 10 Nov – 8 Dec; Mon 7 Dec Masa Shivaratri (HinduTone)
-- Not verified (check before use): Kaal Bhairav Jayanti, Vivah Panchami, Gita Jayanti, Mokshada/Utpanna Ekadashi, Pradosh, Sankashti.
+- December (HinduTone only): Kalabhairav Jayanti Tue 1 Dec; Utpanna Ekadashi Fri 4 Dec; Masik Shivaratri Mon 7 Dec; Vivah Panchami Mon 14 Dec; Gita Jayanti / Mokshada Ekadashi Sun 20 Dec (that page also lists parana 21 Dec).
+- Not verified: Akshaya/Amla Navami exact date (a competitor video this week promotes it as "upcoming"), Pradosh/Sankashti in Nov.
 
-## Competitor patterns (vidIQ trending Hindi Shorts, published since 1 Nov, sorted by views/hr)
-- Top: "Ai storyline" (19.5k subs) Dev Uthani/Tulsi puja – 1.87M views, 91 s, ~25k views/hr, 4.5% engagement. AiStorystudio (1.8k subs) 390k views, 4.6% eng. Small channels beat big ones when topic is timely.
-- Title formulas: festival+year ("2026") + emoji; "20 या 21 नवंबर?" date-confusion; "ये गलती न करें"/"बिल्कुल न भूलें"; "5 चीज़ें/5 दीपक का उपाय"; story-curiosity "एक पतिव्रता का श्राप जिससे विष्णु बन गए पत्थर".
-- Heavy tag use: festival+year, puja vidhi, Tulsi Vivah, Vishnu.
-- Length varies 13s–120s; the two best-engaged (4.5–5.3%) are 90–120s AI-story style, but quick date/upay Shorts at 13–60 s get views from search.
-- Almost all topics today are Dev Uthani/Tulsi Vivah; saturation is high, so a story or myth angle (not puja vidhi) is the differentiator. Competitor-published stats are vidIQ snapshots, not verified channel analytics.
+## Competitor patterns (vidIQ trending Hindi Shorts published since 8 Nov, by views/hr)
+- Festival-upay Shorts: Radha Krishna Rahasya Vinita (39.4k subs) 281k views at 37 s, ~24.7k/hr, but only 26 comments; Ai storyline (25.3k subs) 91-115 s videos, 2.0M and 1.15M views, 4.4-5.5% engagement; Noor Darshan (3.1k subs) 565k views.
+- Myth-story Shorts (Vishnu/Shiva): Priyansh Shukla Hayagriva 5.47M; Bhagwatgyaan Kalki 1.09M (101 s); Mahadi Vision Bhrigu 772k; Future Guru Ji Madhu-Kaitabh 346k, Mahakal 255k.
+- Title formulas: "😱" + "क्यों/कैसे" question ("भगवान विष्णु को क्यों लगाना पड़ा घोड़े का सिर?"); "20 नवंबर ... ये 5 चीज़ें/बिल्कुल न भूलें"; festival + "2026" + puja vidhi; "रहस्य"/"श्राप" nouns.
+- Length: story Shorts that scale are 80-160 s; short upay videos 16-60 s get search views but low engagement (0.5-2%) versus story 3-6%.
+- Small channels (1.8k-12k subs) are winning, so topic timing matters more than channel size. Stats are vidIQ snapshots, not verified channel analytics.
 
 ## Retention recommendation
-Put the question/shock hook in the first 2 s on screen AND voice, then pay it off with one twist at ~35–40 s and end with a line that sets up the first line again (loop). Prefer emotional character stories over puja-rule/fact lists (our own data: stories ~55% vs facts ~33%). Add the year + "20 या 21 नवंबर" style keywords in the title for search pickup.
+Open with the shock question both on screen and in voice in the first 2 s (the "सिर कट गया / पत्थर बन गए" type), withhold the answer until the ~35-40 s twist, and end with a line that loops back to the opening question. Competitor stories that retain run longer than 60 s with 3-6% engagement, so test one 60-75 s story this week alongside our 45-55 s default and compare retention.
