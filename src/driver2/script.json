@@ -1,0 +1,128 @@
+{
+ "title": "driver2",
+ "voice": "hm_omega",
+ "speed": 1.08,
+ "lead": 0.2,
+ "outro": 0.8,
+ "gap": 0.12,
+ "music": "audio/flute.wav",
+ "sources": [
+  "Lok manyata / vyaktigat aastha; Mangalwar Hanuman ji ka din mana jata hai"
+ ],
+ "lines": [
+  {
+   "text": "WHY DO TRUCKS HANG LEMON AND CHILLI?",
+   "say": "ट्रक पर नींबू-मिर्च क्यों लटकाते हैं?",
+   "hi": "ट्रक पर नींबू-मिर्च क्यों लटकाते हैं?",
+   "en": "WHY DO TRUCKS HANG LEMON AND CHILLI?"
+  },
+  {
+   "text": "DRIVER KI AASTHA, PART 2",
+   "say": "ड्राइवर की आस्था, भाग दो.",
+   "hi": "ड्राइवर की आस्था, भाग दो.",
+   "en": "DRIVER KI AASTHA, PART 2"
+  },
+  {
+   "text": "YOU HAVE SEEN THIS ON EVERY TRUCK",
+   "say": "आपने हर ट्रक पर ये ज़रूर देखा होगा.",
+   "hi": "आपने हर ट्रक पर ये ज़रूर देखा होगा.",
+   "en": "YOU HAVE SEEN THIS ON EVERY TRUCK"
+  },
+  {
+   "text": "BELIEVED TO WARD OFF THE EVIL EYE",
+   "say": "मान्यता के अनुसार, ये बुरी नज़र से बचाता है.",
+   "hi": "मान्यता के अनुसार, ये बुरी नज़र से बचाता है.",
+   "en": "BELIEVED TO WARD OFF THE EVIL EYE"
+  },
+  {
+   "text": "SAID: ALAKSHMI LIKES SOUR AND SPICY",
+   "say": "कहते हैं, अलक्ष्मी को खट्टा और तीखा पसंद है.",
+   "hi": "कहते हैं, अलक्ष्मी को खट्टा और तीखा पसंद है.",
+   "en": "SAID: ALAKSHMI LIKES SOUR AND SPICY"
+  },
+  {
+   "text": "SO SHE IS PLEASED AND MOVES ON",
+   "say": "तो वो इसी से खुश होकर आगे बढ़ जाती हैं.",
+   "hi": "तो वो इसी से खुश होकर आगे बढ़ जाती हैं.",
+   "en": "SO SHE IS PLEASED AND MOVES ON"
+  },
+  {
+   "text": "OFTEN CHANGED ON TUESDAY OR SATURDAY",
+   "say": "इसे अक्सर मंगलवार या शनिवार को बदला जाता है.",
+   "hi": "इसे अक्सर मंगलवार या शनिवार को बदला जाता है.",
+   "en": "OFTEN CHANGED ON TUESDAY OR SATURDAY"
+  },
+  {
+   "text": "MANY DRIVERS DO A PUJA FOR A NEW TRUCK",
+   "say": "कई ड्राइवर नई गाड़ी की पहले पूजा करवाते हैं.",
+   "hi": "कई ड्राइवर नई गाड़ी की पहले पूजा करवाते हैं.",
+   "en": "MANY DRIVERS DO A PUJA FOR A NEW TRUCK"
+  },
+  {
+   "text": "AND KEEP HANUMAN JI'S PHOTO ON THE DASHBOARD",
+   "say": "और डैशबोर्ड पर हनुमान जी की फोटो रखते हैं.",
+   "hi": "और डैशबोर्ड पर हनुमान जी की फोटो रखते हैं.",
+   "en": "AND KEEP HANUMAN JI'S PHOTO ON THE DASHBOARD"
+  },
+  {
+   "text": "FAITH GIVES COURAGE ON LONG ROADS",
+   "say": "लंबे सफ़र में भरोसा हिम्मत देता है.",
+   "hi": "लंबे सफ़र में भरोसा हिम्मत देता है.",
+   "en": "FAITH GIVES COURAGE ON LONG ROADS"
+  },
+  {
+   "text": "SUBSCRIBE FOR MORE STORIES LIKE THIS!",
+   "say": "ऐसी कहानियों के लिए सब्सक्राइब करो!",
+   "hi": "ऐसी कहानियों के लिए सब्सक्राइब करो!",
+   "en": "SUBSCRIBE FOR MORE STORIES LIKE THIS!"
+  },
+  {
+   "text": "BUT SAFETY NEEDS MORE THAN FAITH",
+   "say": "लेकिन सुरक्षा सिर्फ़ भरोसे से नहीं होती.",
+   "hi": "लेकिन सुरक्षा सिर्फ़ भरोसे से नहीं होती.",
+   "en": "BUT SAFETY NEEDS MORE THAN FAITH"
+  },
+  {
+   "text": "ALWAYS CHECK THE TYRES BEFORE A TRIP",
+   "say": "सफ़र से पहले टायर ज़रूर जाँचें.",
+   "hi": "सफ़र से पहले टायर ज़रूर जाँचें.",
+   "en": "ALWAYS CHECK THE TYRES BEFORE A TRIP"
+  },
+  {
+   "text": "CHECK BRAKES AND LIGHTS TOO",
+   "say": "ब्रेक और लाइट भी देखें.",
+   "hi": "ब्रेक और लाइट भी देखें.",
+   "en": "CHECK BRAKES AND LIGHTS TOO"
+  },
+  {
+   "text": "SLEEPY? PULL OVER AND REST",
+   "say": "नींद आए तो गाड़ी किनारे लगाकर आराम करें.",
+   "hi": "नींद आए तो गाड़ी किनारे लगाकर आराम करें.",
+   "en": "SLEEPY? PULL OVER AND REST"
+  },
+  {
+   "text": "KEEP FAITH, AND KEEP CARE",
+   "say": "भरोसा भी रखो, सावधानी भी.",
+   "hi": "भरोसा भी रखो, सावधानी भी.",
+   "en": "KEEP FAITH, AND KEEP CARE"
+  },
+  {
+   "text": "THAT IS A DRIVER'S TRUE FAITH",
+   "say": "यही असली ड्राइवर की आस्था है.",
+   "hi": "यही असली ड्राइवर की आस्था है.",
+   "en": "THAT IS A DRIVER'S TRUE FAITH"
+  },
+  {
+   "text": "WHAT HANGS ON YOUR TRUCK?",
+   "say": "आपके ट्रक पर क्या लटका है?",
+   "hi": "आपके ट्रक पर क्या लटका है?",
+   "en": "WHAT HANGS ON YOUR TRUCK?"
+  },
+  {
+   "text": "COMMENT BELOW. JAI BAJRANGBALI!",
+   "say": "कमेंट में बताओ. जय बजरंगबली!",
+   "hi": "कमेंट में बताओ. जय बजरंगबली!",
+   "en": "COMMENT BELOW. JAI BAJRANGBALI!"
+  }
+ ]
+}

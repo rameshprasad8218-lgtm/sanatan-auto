@@ -1,0 +1,140 @@
+{
+ "title": "bharat1",
+ "voice": "hm_omega",
+ "speed": 1.08,
+ "lead": 0.2,
+ "outro": 0.8,
+ "gap": 0.12,
+ "music": "audio/flute.wav",
+ "sources": [
+  "Lok manyata / vyaktigat aastha; Mangalwar Hanuman ji ka din mana jata hai"
+ ],
+ "lines": [
+  {
+   "text": "WHY DO DEVOTEES OFFER HAIR AT TIRUPATI?",
+   "say": "तिरुपति में लोग बाल क्यों देते हैं?",
+   "hi": "तिरुपति में लोग बाल क्यों देते हैं?",
+   "en": "WHY DO DEVOTEES OFFER HAIR AT TIRUPATI?"
+  },
+  {
+   "text": "BHARAT YATRA, EPISODE 1",
+   "say": "भारत यात्रा, एपिसोड एक.",
+   "hi": "भारत यात्रा, एपिसोड एक.",
+   "en": "BHARAT YATRA, EPISODE 1"
+  },
+  {
+   "text": "TODAY'S STATE: ANDHRA PRADESH",
+   "say": "आज का राज्य, आंध्र प्रदेश.",
+   "hi": "आज का राज्य, आंध्र प्रदेश.",
+   "en": "TODAY'S STATE: ANDHRA PRADESH"
+  },
+  {
+   "text": "THE TEMPLE SITS ON THE TIRUMALA HILLS",
+   "say": "पहाड़ियों पर बसा है तिरुमला का मंदिर.",
+   "hi": "पहाड़ियों पर बसा है तिरुमला का मंदिर.",
+   "en": "THE TEMPLE SITS ON THE TIRUMALA HILLS"
+  },
+  {
+   "text": "BALAJI, KNOWN AS LORD VENKATESWARA",
+   "say": "यहाँ बालाजी विराजते हैं, यानी भगवान वेंकटेश्वर.",
+   "hi": "यहाँ बालाजी विराजते हैं, यानी भगवान वेंकटेश्वर.",
+   "en": "BALAJI, KNOWN AS LORD VENKATESWARA"
+  },
+  {
+   "text": "BELIEVED TO BE A FORM OF VISHNU",
+   "say": "मान्यता के अनुसार, वे भगवान विष्णु का रूप हैं.",
+   "hi": "मान्यता के अनुसार, वे भगवान विष्णु का रूप हैं.",
+   "en": "BELIEVED TO BE A FORM OF VISHNU"
+  },
+  {
+   "text": "THE LEGEND: HE TOOK A LOAN FROM KUBER",
+   "say": "कहते हैं, उन्होंने कुबेर से कर्ज़ लिया था.",
+   "hi": "कहते हैं, उन्होंने कुबेर से कर्ज़ लिया था.",
+   "en": "THE LEGEND: HE TOOK A LOAN FROM KUBER"
+  },
+  {
+   "text": "DEVOTEES STILL DONATE TO HELP REPAY IT",
+   "say": "भक्त आज भी दान देकर उस कर्ज़ में हाथ बँटाते हैं.",
+   "hi": "भक्त आज भी दान देकर उस कर्ज़ में हाथ बँटाते हैं.",
+   "en": "DEVOTEES STILL DONATE TO HELP REPAY IT"
+  },
+  {
+   "text": "OFFERING HAIR IS SEEN AS A DONATION",
+   "say": "बाल देना भी एक दान माना जाता है.",
+   "hi": "बाल देना भी एक दान माना जाता है.",
+   "en": "OFFERING HAIR IS SEEN AS A DONATION"
+  },
+  {
+   "text": "OFFERING YOUR EGO TO GOD",
+   "say": "यानी अपना अहंकार प्रभु को अर्पित करना.",
+   "hi": "यानी अपना अहंकार प्रभु को अर्पित करना.",
+   "en": "OFFERING YOUR EGO TO GOD"
+  },
+  {
+   "text": "IT IS CALLED A VOW TONSURE",
+   "say": "इसे मन्नत का मुंडन कहते हैं.",
+   "hi": "इसे मन्नत का मुंडन कहते हैं.",
+   "en": "IT IS CALLED A VOW TONSURE"
+  },
+  {
+   "text": "SUBSCRIBE FOR THE NEXT STATE!",
+   "say": "अगले राज्य के लिए सब्सक्राइब करो!",
+   "hi": "अगले राज्य के लिए सब्सक्राइब करो!",
+   "en": "SUBSCRIBE FOR THE NEXT STATE!"
+  },
+  {
+   "text": "BOTH MEN AND WOMEN DO IT",
+   "say": "पुरुष और महिलाएँ, दोनों बाल देते हैं.",
+   "hi": "पुरुष और महिलाएँ, दोनों बाल देते हैं.",
+   "en": "BOTH MEN AND WOMEN DO IT"
+  },
+  {
+   "text": "AT A PLACE CALLED KALYANA KATTA",
+   "say": "यह कल्याण कट्टा नाम की जगह पर होता है.",
+   "hi": "यह कल्याण कट्टा नाम की जगह पर होता है.",
+   "en": "AT A PLACE CALLED KALYANA KATTA"
+  },
+  {
+   "text": "IT IS SAID TO BE FREE OF CHARGE",
+   "say": "कहा जाता है कि यह सेवा मुफ़्त होती है.",
+   "hi": "कहा जाता है कि यह सेवा मुफ़्त होती है.",
+   "en": "IT IS SAID TO BE FREE OF CHARGE"
+  },
+  {
+   "text": "SO WHAT HAPPENS TO THE HAIR?",
+   "say": "तो इन बालों का क्या होता है?",
+   "hi": "तो इन बालों का क्या होता है?",
+   "en": "SO WHAT HAPPENS TO THE HAIR?"
+  },
+  {
+   "text": "THEY ARE SAID TO BE AUCTIONED",
+   "say": "सुना है, इनकी नीलामी होती है.",
+   "hi": "सुना है, इनकी नीलामी होती है.",
+   "en": "THEY ARE SAID TO BE AUCTIONED"
+  },
+  {
+   "text": "FUNDS GO TO TEMPLE SERVICES",
+   "say": "और वो पैसा मंदिर की सेवाओं में लगता है.",
+   "hi": "और वो पैसा मंदिर की सेवाओं में लगता है.",
+   "en": "FUNDS GO TO TEMPLE SERVICES"
+  },
+  {
+   "text": "GOVINDA, GOVINDA!",
+   "say": "गोविंदा, गोविंदा!",
+   "hi": "गोविंदा, गोविंदा!",
+   "en": "GOVINDA, GOVINDA!"
+  },
+  {
+   "text": "HAVE YOU EVER VISITED TIRUPATI?",
+   "say": "आप कभी तिरुपति गए हैं?",
+   "hi": "आप कभी तिरुपति गए हैं?",
+   "en": "HAVE YOU EVER VISITED TIRUPATI?"
+  },
+  {
+   "text": "COMMENT BELOW. NEXT STOP: KASHI!",
+   "say": "कमेंट में बताओ. अगला पड़ाव, काशी!",
+   "hi": "कमेंट में बताओ. अगला पड़ाव, काशी!",
+   "en": "COMMENT BELOW. NEXT STOP: KASHI!"
+  }
+ ]
+}

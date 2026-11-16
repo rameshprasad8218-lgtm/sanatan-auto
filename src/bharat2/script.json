@@ -1,0 +1,128 @@
+{
+ "title": "bharat2",
+ "voice": "hm_omega",
+ "speed": 1.08,
+ "lead": 0.2,
+ "outro": 0.8,
+ "gap": 0.12,
+ "music": "audio/flute.wav",
+ "sources": [
+  "Lok manyata / vyaktigat aastha; Mangalwar Hanuman ji ka din mana jata hai"
+ ],
+ "lines": [
+  {
+   "text": "WHY IS KASHI CALLED THE CITY OF MOKSHA?",
+   "say": "काशी को मोक्ष की नगरी क्यों कहते हैं?",
+   "hi": "काशी को मोक्ष की नगरी क्यों कहते हैं?",
+   "en": "WHY IS KASHI CALLED THE CITY OF MOKSHA?"
+  },
+  {
+   "text": "BHARAT YATRA, EPISODE 2",
+   "say": "भारत यात्रा, एपिसोड दो.",
+   "hi": "भारत यात्रा, एपिसोड दो.",
+   "en": "BHARAT YATRA, EPISODE 2"
+  },
+  {
+   "text": "TODAY'S STATE: UTTAR PRADESH",
+   "say": "आज का राज्य, उत्तर प्रदेश.",
+   "hi": "आज का राज्य, उत्तर प्रदेश.",
+   "en": "TODAY'S STATE: UTTAR PRADESH"
+  },
+  {
+   "text": "KASHI, OR VARANASI, SITS ON THE GANGA",
+   "say": "गंगा किनारे बसी है काशी, यानी वाराणसी.",
+   "hi": "गंगा किनारे बसी है काशी, यानी वाराणसी.",
+   "en": "KASHI, OR VARANASI, SITS ON THE GANGA"
+  },
+  {
+   "text": "ONE OF THE OLDEST LIVING CITIES",
+   "say": "इसे दुनिया के सबसे पुराने बसे शहरों में गिना जाता है.",
+   "hi": "इसे दुनिया के सबसे पुराने बसे शहरों में गिना जाता है.",
+   "en": "ONE OF THE OLDEST LIVING CITIES"
+  },
+  {
+   "text": "BABA VISHWANATH RESIDES HERE",
+   "say": "यहाँ विराजते हैं बाबा विश्वनाथ.",
+   "hi": "यहाँ विराजते हैं बाबा विश्वनाथ.",
+   "en": "BABA VISHWANATH RESIDES HERE"
+  },
+  {
+   "text": "ONE OF THE 12 JYOTIRLINGAS",
+   "say": "जो बारह ज्योतिर्लिंगों में गिने जाते हैं.",
+   "hi": "जो बारह ज्योतिर्लिंगों में गिने जाते हैं.",
+   "en": "ONE OF THE 12 JYOTIRLINGAS"
+  },
+  {
+   "text": "BELIEVED TO REST ON SHIVA'S TRIDENT",
+   "say": "मान्यता है कि काशी शिव के त्रिशूल पर टिकी है.",
+   "hi": "मान्यता है कि काशी शिव के त्रिशूल पर टिकी है.",
+   "en": "BELIEVED TO REST ON SHIVA'S TRIDENT"
+  },
+  {
+   "text": "SAID TO BE UNTOUCHED BY THE END OF WORLD",
+   "say": "कहते हैं, यहाँ प्रलय का असर नहीं होता.",
+   "hi": "कहते हैं, यहाँ प्रलय का असर नहीं होता.",
+   "en": "SAID TO BE UNTOUCHED BY THE END OF WORLD"
+  },
+  {
+   "text": "BELIEF: THE LAST BREATH HERE GIVES MOKSHA",
+   "say": "मान्यता है, यहाँ अंतिम साँस लेने वाले को मोक्ष मिलता है.",
+   "hi": "मान्यता है, यहाँ अंतिम साँस लेने वाले को मोक्ष मिलता है.",
+   "en": "BELIEF: THE LAST BREATH HERE GIVES MOKSHA"
+  },
+  {
+   "text": "SAID: SHIVA WHISPERS THE TARAKA MANTRA",
+   "say": "कहा जाता है, शिव कान में तारक मंत्र सुनाते हैं.",
+   "hi": "कहा जाता है, शिव कान में तारक मंत्र सुनाते हैं.",
+   "en": "SAID: SHIVA WHISPERS THE TARAKA MANTRA"
+  },
+  {
+   "text": "SUBSCRIBE FOR THE NEXT STATE!",
+   "say": "अगले राज्य के लिए सब्सक्राइब करो!",
+   "hi": "अगले राज्य के लिए सब्सक्राइब करो!",
+   "en": "SUBSCRIBE FOR THE NEXT STATE!"
+  },
+  {
+   "text": "EVENING GANGA AARTI AT DASHASHWAMEDH GHAT",
+   "say": "शाम को दशाश्वमेध घाट पर गंगा आरती होती है.",
+   "hi": "शाम को दशाश्वमेध घाट पर गंगा आरती होती है.",
+   "en": "EVENING GANGA AARTI AT DASHASHWAMEDH GHAT"
+  },
+  {
+   "text": "THE RIVER TURNS GOLDEN WITH DIYAS",
+   "say": "दीयों की रोशनी में पूरी नदी सुनहरी हो जाती है.",
+   "hi": "दीयों की रोशनी में पूरी नदी सुनहरी हो जाती है.",
+   "en": "THE RIVER TURNS GOLDEN WITH DIYAS"
+  },
+  {
+   "text": "DON'T MISS BANARASI PAAN AND KACHORI!",
+   "say": "और बनारसी पान-कचौड़ी मत भूलना!",
+   "hi": "और बनारसी पान-कचौड़ी मत भूलना!",
+   "en": "DON'T MISS BANARASI PAAN AND KACHORI!"
+  },
+  {
+   "text": "KASHI IS NOT JUST A CITY, IT IS FAITH",
+   "say": "काशी सिर्फ़ शहर नहीं, एक आस्था है.",
+   "hi": "काशी सिर्फ़ शहर नहीं, एक आस्था है.",
+   "en": "KASHI IS NOT JUST A CITY, IT IS FAITH"
+  },
+  {
+   "text": "HAR HAR MAHADEV!",
+   "say": "हर हर महादेव!",
+   "hi": "हर हर महादेव!",
+   "en": "HAR HAR MAHADEV!"
+  },
+  {
+   "text": "WHEN DID YOU VISIT KASHI?",
+   "say": "आप काशी कब गए थे?",
+   "hi": "आप काशी कब गए थे?",
+   "en": "WHEN DID YOU VISIT KASHI?"
+  },
+  {
+   "text": "COMMENT BELOW. NEXT STATE COMING SOON!",
+   "say": "कमेंट में बताओ. अगला राज्य, जल्द ही!",
+   "hi": "कमेंट में बताओ. अगला राज्य, जल्द ही!",
+   "en": "COMMENT BELOW. NEXT STATE COMING SOON!"
+  }
+ ]
+}
