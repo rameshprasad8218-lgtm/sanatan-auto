@@ -14,3 +14,10 @@
 - Pipeline: extract tgz into ~/faceless-shorts/<name>; voice.py; narration filter chain; words.py; capture check/cues; mix.py; sheet; FPS=30 video; ffmpeg crf23 loudnorm -14; copy to videos/NN_name.mp4; add entries to meta/queue.json (status pending, publish_at 13:00/18:00/21:00 IST); git push (upload.yml does the rest).
 - meta/stats.trigger push -> stats.yml writes meta/stats.json (channel + per-video views/likes/comments).
 - Each video < 58 s. Facts: "manyata ke anusaar". Latest ids: 15 Tirupati, 16 Kashi, 17 Nimbu-mirchi.
+
+## Studio data lessons (16 Nov, from Aditya's YouTube Studio)
+- ~95% of traffic is the Shorts feed; ~2,000 unique viewers; channel started 10 Nov.
+- "Stayed to watch" decides views. Best: Kunti ne Krishna se dukh kyun manga (EFjLzrWu48c): 64% stayed, 55% avg viewed, 1,650+ views = emotional character question + motivation payoff.
+- Weak: Kharna videos ~42% stayed (58% swiped at start) even though first-hour views were high. Plain ritual-fact explainers lose people; story/emotion wins.
+- Rules for every new video: first frame + first spoken line must be a curiosity/emotional question with the character/story (no intro, no pause); pick emotional mythology stories (Krishna/Kunti type, Vrinda, Sakshi Gopal) over fact lists for at least 1 of 3 daily slots; fast pacing, avg viewed target 70%+. Studio data lags 24-48 h, judge a video only after 48 h.
+- Paper-Cut videos 15-17 (16 Nov) have no retention data yet: compare their stayed-to-watch against Kunti (64%) and Kharna (42%) once Studio shows it.
