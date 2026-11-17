@@ -24,3 +24,9 @@
 - 17 Nov stats (subs 4, channel 5.7k views): Kharna Kya Hai 1,255 views and Mangalwar chicken 899 were best; Kharna Kheer 707, Chhathi Maiya 421; Chhath sandhya/prasad/doobta suraj only 45-115 (curve flat after Kharna). Paper-Cut 15-17 (<24 h): Tirupati 44, Kashi 90, Nimbu-mirchi 12, too early to judge.
 - Subs stay ~4 despite 5.7k views: need a character-story hook + subscribe voice CTA mid-video; Bharat Yatra / Driver episodes still unproven.
 - 17 Nov batch: story Vrinda-Shaligram (18), Bharat Yatra EP3 Puri (19), Driver #3 nariyal (20). New posters in src/paper.js: shaligram, tulsi, sword, coconut, rath, pinOD. Compare stayed-to-watch after 48 h (19 Nov).
+
+## STYLE CHANGE 17 Nov (Aditya, explicit): NO MORE brown paper-cut. Use the painted "Kahani" character renderer that made Jatayu/Kunti
+- Aditya said views are not coming and wants the Jatayu/Kunti type of editing (painted scenes, big rigged characters, lit scenes, captions at bottom). Brown Paper-Cut template is retired (engine/paper_engine.tgz kept only for reference).
+- Renderer: engine/painted/ (copy of /home/claude/sd: render.py, render2.py, kit.py, rig.py, bgs.py, music2.py, scripts.py STORIES, story_*.py). Run: python render2.py <storyname> (needs tts audio out/<name>_audio.wav from mk_tts.py, Kokoro voice hm_omega), then ffmpeg 1080x1920 crf 20 loudnorm -14.
+- Already rendered/posted in this style: jatayu, kevat, kunti, gandhari (01-04), chhathi, doobta, karna, kharna, kheer, nirjala (05-10), vidur (21, kele ka chhilka), hanuman (22, sindoor), ekadashi (23, chawal).
+- Unposted paper-cut videos 18 Vrinda (21 Nov 13:00 - Tulsi Vivah), 19 Puri (22 Nov 13:00), 20 nariyal (22 Nov 18:00) were rescheduled; do not make more paper-cut videos.
