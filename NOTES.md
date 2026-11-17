@@ -31,3 +31,13 @@
 - Already rendered/posted in this style: jatayu, kevat, kunti, gandhari (01-04), chhathi, doobta, karna, kharna, kheer, nirjala (05-10), vidur (21, kele ka chhilka), hanuman (22, sindoor), ekadashi (23, chawal).
 - Unposted paper-cut videos 18 Vrinda (21 Nov 13:00 - Tulsi Vivah), 19 Puri (22 Nov 13:00), 20 nariyal (22 Nov 18:00) were rescheduled; do not make more paper-cut videos.
 - 17 Nov (Aditya): the Ekadashi-chawal video editing (painted renderer, 23_ekadashi_chawal) is the approved look; keep exactly this editing for all future videos.
+
+## EFFECTS PASS (MANDATORY from 18 Nov, Aditya: "editing strong, chahe kuch ho jaye")
+After render2.py gives the 720p video, run the effects pass BEFORE the final encode, 4-6 effects per video, each 1.5-3.5 s, on key words (hook, twist, emotional payoff, CTA/question):
+  pip install mediapipe opencv-python numpy (if missing); plan.json = {"effects":[{"fx":"lean-in","start":0.2,"end":1.6,"zoom":1.3}, ...]}
+  check stills first: python3 tools/video-effects/scripts/fx.py --plan plan.json in.mp4 check.png --still t1,t2,...  (LOOK at the PNGs)
+  render + final encode: sh scripts/enhance.sh in720.mp4 plan.json videos/NN_name.mp4   (1080p, crf 16, loudnorm)
+Tested 17 Nov on the cartoon Vidur video (stills OK): lean-in (hook punch-in), backdrop-word (giant gold Hindi word behind character, e.g. "भाव"; keep it 1-2 short words), glitter-spotlight (dark room + golden rays + sparkles = great for the emotional payoff; its gold word showed boxes for Devanagari, so omit text= or check the still), slow-push, moody/warm grades, rabbit-hole / dot-reveal (scene transitions), crayon-write, huge-strike, reject-stamp, countdown, tape-label.
+DO NOT USE effects that show another creator's branding or fake profiles: comment-box ("vibha.in.progress"), glass-widgets ("Edited by Claude" pill), tap/follow with handles, pastel-word profile card, profile-wall, place-in-grid, phone-fan. led-sign is unreadable in Hindi.
+Face-based effects (locked-on, orbit) are for real faces; on cartoons only use the list above.
+Plan per video: hook = lean-in; mid-story twist = backdrop-word with the key word; payoff = glitter-spotlight; last line = slow-push; one grade for the whole video. Never let a effect cover the bottom captions.
