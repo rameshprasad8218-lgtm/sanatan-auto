@@ -42,3 +42,7 @@ DO NOT USE effects that show another creator's branding or fake profiles: commen
 Face-based effects (locked-on, orbit) are for real faces; on cartoons only use the list above.
 Plan per video: hook = lean-in; mid-story twist = backdrop-word with the key word; payoff = glitter-spotlight; last line = slow-push; one grade for the whole video. Never let a effect cover the bottom captions.
 - 17 Nov 08:32 Aditya after seeing the 15 s effects sample: not impressed, said "jaise tum maan rahe ho vahi chalne do". So the effects pass is OPTIONAL: use an effect only when its still looks clearly good (lean-in on the hook, backdrop-word); the approved base look stays the Ekadashi-style painted render. Do not add effects just to hit a count.
+
+## 17 Nov 15:38 - decision from Aditya
+- Puppet / Madhubani / 3D-character experiments are DROPPED. Keep making daily videos with the painted engine (engine/painted) exactly as before.
+- Queue already covers up to tomorrow; no extra videos needed today. Daily 07:23 IST engine continues unchanged.
