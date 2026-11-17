@@ -1,0 +1,116 @@
+{
+ "title": "nariyal",
+ "voice": "hm_omega",
+ "speed": 1.08,
+ "lead": 0.2,
+ "outro": 0.8,
+ "gap": 0.12,
+ "music": "audio/flute.wav",
+ "sources": [
+  "Lok manyata / Puranic katha; manyata ke anusaar"
+ ],
+ "lines": [
+  {
+   "text": "WHY BREAK A COCONUT ON A NEW TRUCK?",
+   "say": "नई गाड़ी पर सबसे पहले नारियल क्यों फोड़ते हैं?",
+   "hi": "नई गाड़ी पर सबसे पहले नारियल क्यों फोड़ते हैं?",
+   "en": "WHY BREAK A COCONUT ON A NEW TRUCK?"
+  },
+  {
+   "text": "DRIVER KI AASTHA, PART 3",
+   "say": "ड्राइवर की आस्था, भाग तीन.",
+   "hi": "ड्राइवर की आस्था, भाग तीन.",
+   "en": "DRIVER KI AASTHA, PART 3"
+  },
+  {
+   "text": "A NEW TRUCK ALWAYS GETS A PUJA",
+   "say": "नई गाड़ी आती है, तो पूजा ज़रूर होती है.",
+   "hi": "नई गाड़ी आती है, तो पूजा ज़रूर होती है.",
+   "en": "A NEW TRUCK ALWAYS GETS A PUJA"
+  },
+  {
+   "text": "A COCONUT IS BROKEN AT THE WHEEL",
+   "say": "पहिये के आगे नारियल फोड़ा जाता है.",
+   "hi": "पहिये के आगे नारियल फोड़ा जाता है.",
+   "en": "A COCONUT IS BROKEN AT THE WHEEL"
+  },
+  {
+   "text": "BELIEF: THE COCONUT STANDS FOR EGO",
+   "say": "मान्यता के अनुसार, नारियल अहंकार का प्रतीक है.",
+   "hi": "मान्यता के अनुसार, नारियल अहंकार का प्रतीक है.",
+   "en": "BELIEF: THE COCONUT STANDS FOR EGO"
+  },
+  {
+   "text": "BREAKING IT = OFFERING EGO TO GOD",
+   "say": "उसे फोड़ना यानी अहंकार प्रभु को अर्पित करना.",
+   "hi": "उसे फोड़ना यानी अहंकार प्रभु को अर्पित करना.",
+   "en": "BREAKING IT = OFFERING EGO TO GOD"
+  },
+  {
+   "text": "SAID TO REMOVE OBSTACLES ON THE ROAD",
+   "say": "कहते हैं, इससे सफ़र के विघ्न दूर होते हैं.",
+   "hi": "कहते हैं, इससे सफ़र के विघ्न दूर होते हैं.",
+   "en": "SAID TO REMOVE OBSTACLES ON THE ROAD"
+  },
+  {
+   "text": "SUBSCRIBE FOR MORE STORIES LIKE THIS!",
+   "say": "ऐसी कहानियों के लिए सब्सक्राइब करो!",
+   "hi": "ऐसी कहानियों के लिए सब्सक्राइब करो!",
+   "en": "SUBSCRIBE FOR MORE STORIES LIKE THIS!"
+  },
+  {
+   "text": "THEN A SWASTIK IS MADE WITH KUMKUM",
+   "say": "फिर कुमकुम से स्वस्तिक बनाया जाता है.",
+   "hi": "फिर कुमकुम से स्वस्तिक बनाया जाता है.",
+   "en": "THEN A SWASTIK IS MADE WITH KUMKUM"
+  },
+  {
+   "text": "AND HANUMAN JI'S PHOTO GOES ON THE DASHBOARD",
+   "say": "और हनुमान जी की फोटो डैशबोर्ड पर लगती है.",
+   "hi": "और हनुमान जी की फोटो डैशबोर्ड पर लगती है.",
+   "en": "AND HANUMAN JI'S PHOTO GOES ON THE DASHBOARD"
+  },
+  {
+   "text": "THE WATER IS OFFERED, THE PULP BECOMES PRASAD",
+   "say": "नारियल का पानी चढ़ता है, गूदा प्रसाद बनता है.",
+   "hi": "नारियल का पानी चढ़ता है, गूदा प्रसाद बनता है.",
+   "en": "THE WATER IS OFFERED, THE PULP BECOMES PRASAD"
+  },
+  {
+   "text": "BUT DON'T FORGET THE RULES AFTER PUJA",
+   "say": "पर पूजा के बाद भी नियम मत भूलना.",
+   "hi": "पर पूजा के बाद भी नियम मत भूलना.",
+   "en": "BUT DON'T FORGET THE RULES AFTER PUJA"
+  },
+  {
+   "text": "STAY WITHIN THE SPEED LIMIT",
+   "say": "स्पीड लिमिट में चलो.",
+   "hi": "स्पीड लिमिट में चलो.",
+   "en": "STAY WITHIN THE SPEED LIMIT"
+  },
+  {
+   "text": "SLEEPY? STOP AND REST",
+   "say": "नींद आए तो गाड़ी रोककर आराम करो.",
+   "hi": "नींद आए तो गाड़ी रोककर आराम करो.",
+   "en": "SLEEPY? STOP AND REST"
+  },
+  {
+   "text": "REACHING SAFELY IS THE REAL BLESSING",
+   "say": "सुरक्षित पहुँचना ही असली आशीर्वाद है.",
+   "hi": "सुरक्षित पहुँचना ही असली आशीर्वाद है.",
+   "en": "REACHING SAFELY IS THE REAL BLESSING"
+  },
+  {
+   "text": "WHO DID YOUR TRUCK'S FIRST PUJA?",
+   "say": "आपकी गाड़ी की पहली पूजा किसने की?",
+   "hi": "आपकी गाड़ी की पहली पूजा किसने की?",
+   "en": "WHO DID YOUR TRUCK'S FIRST PUJA?"
+  },
+  {
+   "text": "COMMENT BELOW. JAI BAJRANGBALI!",
+   "say": "कमेंट में बताओ. जय बजरंगबली!",
+   "hi": "कमेंट में बताओ. जय बजरंगबली!",
+   "en": "COMMENT BELOW. JAI BAJRANGBALI!"
+  }
+ ]
+}

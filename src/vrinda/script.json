@@ -1,0 +1,122 @@
+{
+ "title": "vrinda",
+ "voice": "hm_omega",
+ "speed": 1.08,
+ "lead": 0.2,
+ "outro": 0.8,
+ "gap": 0.12,
+ "music": "audio/flute.wav",
+ "sources": [
+  "Lok manyata / Puranic katha; manyata ke anusaar"
+ ],
+ "lines": [
+  {
+   "text": "WHY DID LORD VISHNU TURN INTO A STONE?",
+   "say": "भगवान विष्णु पत्थर क्यों बन गए?",
+   "hi": "भगवान विष्णु पत्थर क्यों बन गए?",
+   "en": "WHY DID LORD VISHNU TURN INTO A STONE?"
+  },
+  {
+   "text": "BECAUSE OF A DEVOTED WIFE'S CURSE",
+   "say": "एक पतिव्रता के श्राप से.",
+   "hi": "एक पतिव्रता के श्राप से.",
+   "en": "BECAUSE OF A DEVOTED WIFE'S CURSE"
+  },
+  {
+   "text": "BELIEF: THERE WAS A DEMON, JALANDHAR",
+   "say": "मान्यता के अनुसार, जालंधर नाम का एक असुर था.",
+   "hi": "मान्यता के अनुसार, जालंधर नाम का एक असुर था.",
+   "en": "BELIEF: THERE WAS A DEMON, JALANDHAR"
+  },
+  {
+   "text": "HIS WIFE VRINDA, VISHNU'S GREAT DEVOTEE",
+   "say": "उसकी पत्नी थीं वृंदा, विष्णु जी की परम भक्त.",
+   "hi": "उसकी पत्नी थीं वृंदा, विष्णु जी की परम भक्त.",
+   "en": "HIS WIFE VRINDA, VISHNU'S GREAT DEVOTEE"
+  },
+  {
+   "text": "VRINDA'S POWER MADE HIM UNBEATABLE",
+   "say": "वृंदा की भक्ति की शक्ति से जालंधर हार ही नहीं सकता था.",
+   "hi": "वृंदा की भक्ति की शक्ति से जालंधर हार ही नहीं सकता था.",
+   "en": "VRINDA'S POWER MADE HIM UNBEATABLE"
+  },
+  {
+   "text": "HE EVEN CHALLENGED SHIVA",
+   "say": "वो शिव जी से भी भिड़ गया.",
+   "hi": "वो शिव जी से भी भिड़ गया.",
+   "en": "HE EVEN CHALLENGED SHIVA"
+  },
+  {
+   "text": "THE GODS WENT TO VISHNU",
+   "say": "तब देवता विष्णु जी के पास पहुँचे.",
+   "hi": "तब देवता विष्णु जी के पास पहुँचे.",
+   "en": "THE GODS WENT TO VISHNU"
+  },
+  {
+   "text": "SUBSCRIBE FOR MORE STORIES LIKE THIS!",
+   "say": "ऐसी कहानियों के लिए सब्सक्राइब करो!",
+   "hi": "ऐसी कहानियों के लिए सब्सक्राइब करो!",
+   "en": "SUBSCRIBE FOR MORE STORIES LIKE THIS!"
+  },
+  {
+   "text": "SAID: VISHNU TOOK JALANDHAR'S FORM",
+   "say": "कहते हैं, विष्णु जी जालंधर का रूप लेकर वृंदा के पास गए.",
+   "hi": "कहते हैं, विष्णु जी जालंधर का रूप लेकर वृंदा के पास गए.",
+   "en": "SAID: VISHNU TOOK JALANDHAR'S FORM"
+  },
+  {
+   "text": "VRINDA'S VOW BROKE, JALANDHAR FELL",
+   "say": "वृंदा का व्रत टूटा, और जालंधर युद्ध में मारा गया.",
+   "hi": "वृंदा का व्रत टूटा, और जालंधर युद्ध में मारा गया.",
+   "en": "VRINDA'S VOW BROKE, JALANDHAR FELL"
+  },
+  {
+   "text": "VRINDA BROKE DOWN ON LEARNING THE TRUTH",
+   "say": "सच पता चला, तो वृंदा रो पड़ीं.",
+   "hi": "सच पता चला, तो वृंदा रो पड़ीं.",
+   "en": "VRINDA BROKE DOWN ON LEARNING THE TRUTH"
+  },
+  {
+   "text": "SHE CURSED: BECOME A STONE!",
+   "say": "उन्होंने श्राप दिया, तुम पत्थर बन जाओ!",
+   "hi": "उन्होंने श्राप दिया, तुम पत्थर बन जाओ!",
+   "en": "SHE CURSED: BECOME A STONE!"
+  },
+  {
+   "text": "VISHNU ACCEPTED IT, BECAME SHALIGRAM",
+   "say": "विष्णु जी ने श्राप माना, और बने शालिग्राम.",
+   "hi": "विष्णु जी ने श्राप माना, और बने शालिग्राम.",
+   "en": "VISHNU ACCEPTED IT, BECAME SHALIGRAM"
+  },
+  {
+   "text": "VRINDA BECAME THE TULSI PLANT",
+   "say": "वृंदा तुलसी का पौधा बन गईं.",
+   "hi": "वृंदा तुलसी का पौधा बन गईं.",
+   "en": "VRINDA BECAME THE TULSI PLANT"
+  },
+  {
+   "text": "\"MY WORSHIP IS INCOMPLETE WITHOUT TULSI\"",
+   "say": "प्रभु ने वचन दिया, तुलसी के बिना मेरी पूजा अधूरी है.",
+   "hi": "प्रभु ने वचन दिया, तुलसी के बिना मेरी पूजा अधूरी है.",
+   "en": "\"MY WORSHIP IS INCOMPLETE WITHOUT TULSI\""
+  },
+  {
+   "text": "HENCE TULSI VIVAH WITH SHALIGRAM",
+   "say": "इसीलिए शालिग्राम के साथ तुलसी विवाह होता है.",
+   "hi": "इसीलिए शालिग्राम के साथ तुलसी विवाह होता है.",
+   "en": "HENCE TULSI VIVAH WITH SHALIGRAM"
+  },
+  {
+   "text": "DO YOU HAVE TULSI AT HOME?",
+   "say": "आपके घर में तुलसी है?",
+   "hi": "आपके घर में तुलसी है?",
+   "en": "DO YOU HAVE TULSI AT HOME?"
+  },
+  {
+   "text": "COMMENT BELOW. JAI SHRI HARI!",
+   "say": "कमेंट में बताओ. जय श्री हरि!",
+   "hi": "कमेंट में बताओ. जय श्री हरि!",
+   "en": "COMMENT BELOW. JAI SHRI HARI!"
+  }
+ ]
+}

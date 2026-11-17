@@ -1,0 +1,122 @@
+{
+ "title": "puri",
+ "voice": "hm_omega",
+ "speed": 1.08,
+ "lead": 0.2,
+ "outro": 0.8,
+ "gap": 0.12,
+ "music": "audio/flute.wav",
+ "sources": [
+  "Lok manyata / Puranic katha; manyata ke anusaar"
+ ],
+ "lines": [
+  {
+   "text": "WHY ARE JAGANNATH'S IDOLS UNFINISHED?",
+   "say": "जगन्नाथ जी की मूर्तियाँ अधूरी क्यों हैं?",
+   "hi": "जगन्नाथ जी की मूर्तियाँ अधूरी क्यों हैं?",
+   "en": "WHY ARE JAGANNATH'S IDOLS UNFINISHED?"
+  },
+  {
+   "text": "BHARAT YATRA, EPISODE 3",
+   "say": "भारत यात्रा, एपिसोड तीन.",
+   "hi": "भारत यात्रा, एपिसोड तीन.",
+   "en": "BHARAT YATRA, EPISODE 3"
+  },
+  {
+   "text": "TODAY'S STATE: ODISHA",
+   "say": "आज का राज्य, ओडिशा.",
+   "hi": "आज का राज्य, ओडिशा.",
+   "en": "TODAY'S STATE: ODISHA"
+  },
+  {
+   "text": "THE JAGANNATH TEMPLE OF PURI, NEAR THE SEA",
+   "say": "समुद्र के पास बसा है पुरी का जगन्नाथ मंदिर.",
+   "hi": "समुद्र के पास बसा है पुरी का जगन्नाथ मंदिर.",
+   "en": "THE JAGANNATH TEMPLE OF PURI, NEAR THE SEA"
+  },
+  {
+   "text": "KRISHNA IS WORSHIPPED AS JAGANNATH",
+   "say": "यहाँ कृष्ण जी पूजे जाते हैं, जगन्नाथ रूप में.",
+   "hi": "यहाँ कृष्ण जी पूजे जाते हैं, जगन्नाथ रूप में.",
+   "en": "KRISHNA IS WORSHIPPED AS JAGANNATH"
+  },
+  {
+   "text": "WITH BROTHER BALABHADRA AND SISTER SUBHADRA",
+   "say": "साथ में हैं भाई बलभद्र और बहन सुभद्रा.",
+   "hi": "साथ में हैं भाई बलभद्र और बहन सुभद्रा.",
+   "en": "WITH BROTHER BALABHADRA AND SISTER SUBHADRA"
+  },
+  {
+   "text": "BELIEF: VISHWAKARMA CAME TO CARVE THEM",
+   "say": "मान्यता के अनुसार, मूर्ति गढ़ने विश्वकर्मा आए.",
+   "hi": "मान्यता के अनुसार, मूर्ति गढ़ने विश्वकर्मा आए.",
+   "en": "BELIEF: VISHWAKARMA CAME TO CARVE THEM"
+  },
+  {
+   "text": "THE CONDITION: KEEP THE DOOR SHUT",
+   "say": "शर्त थी, दरवाज़ा बंद रहेगा, कोई नहीं खोलेगा.",
+   "hi": "शर्त थी, दरवाज़ा बंद रहेगा, कोई नहीं खोलेगा.",
+   "en": "THE CONDITION: KEEP THE DOOR SHUT"
+  },
+  {
+   "text": "THE KING COULD NOT WAIT AND OPENED IT",
+   "say": "राजा से सब्र नहीं हुआ, उसने दरवाज़ा खोल दिया.",
+   "hi": "राजा से सब्र नहीं हुआ, उसने दरवाज़ा खोल दिया.",
+   "en": "THE KING COULD NOT WAIT AND OPENED IT"
+  },
+  {
+   "text": "THE IDOLS STAYED UNFINISHED",
+   "say": "मूर्तियाँ अधूरी रह गईं, बिना हाथ-पैर के.",
+   "hi": "मूर्तियाँ अधूरी रह गईं, बिना हाथ-पैर के.",
+   "en": "THE IDOLS STAYED UNFINISHED"
+  },
+  {
+   "text": "SUBSCRIBE FOR THE NEXT STATE!",
+   "say": "अगले राज्य के लिए सब्सक्राइब करो!",
+   "hi": "अगले राज्य के लिए सब्सक्राइब करो!",
+   "en": "SUBSCRIBE FOR THE NEXT STATE!"
+  },
+  {
+   "text": "SAID: THE LORD CHOSE TO STAY THAT WAY",
+   "say": "कहते हैं, प्रभु ने उसी रूप में रहना चुना.",
+   "hi": "कहते हैं, प्रभु ने उसी रूप में रहना चुना.",
+   "en": "SAID: THE LORD CHOSE TO STAY THAT WAY"
+  },
+  {
+   "text": "EVERY YEAR, THE RATH YATRA IN ASHADH",
+   "say": "हर साल आषाढ़ में रथ यात्रा निकलती है.",
+   "hi": "हर साल आषाढ़ में रथ यात्रा निकलती है.",
+   "en": "EVERY YEAR, THE RATH YATRA IN ASHADH"
+  },
+  {
+   "text": "LAKHS OF DEVOTEES PULL THE RATH",
+   "say": "लाखों भक्त रस्सी खींचकर रथ चलाते हैं.",
+   "hi": "लाखों भक्त रस्सी खींचकर रथ चलाते हैं.",
+   "en": "LAKHS OF DEVOTEES PULL THE RATH"
+  },
+  {
+   "text": "MAHAPRASAD IS SAID TO BE COOKED IN CLAY POTS",
+   "say": "कहा जाता है, महाप्रसाद मिट्टी के बर्तनों में बनता है.",
+   "hi": "कहा जाता है, महाप्रसाद मिट्टी के बर्तनों में बनता है.",
+   "en": "MAHAPRASAD IS SAID TO BE COOKED IN CLAY POTS"
+  },
+  {
+   "text": "JAI JAGANNATH!",
+   "say": "जय जगन्नाथ!",
+   "hi": "जय जगन्नाथ!",
+   "en": "JAI JAGANNATH!"
+  },
+  {
+   "text": "WHEN DID YOU VISIT PURI?",
+   "say": "आप पुरी कब गए थे?",
+   "hi": "आप पुरी कब गए थे?",
+   "en": "WHEN DID YOU VISIT PURI?"
+  },
+  {
+   "text": "COMMENT BELOW. NEXT STOP: RAJASTHAN!",
+   "say": "कमेंट में बताओ. अगला पड़ाव, राजस्थान!",
+   "hi": "कमेंट में बताओ. अगला पड़ाव, राजस्थान!",
+   "en": "COMMENT BELOW. NEXT STOP: RAJASTHAN!"
+  }
+ ]
+}
