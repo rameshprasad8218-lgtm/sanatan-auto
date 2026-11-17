@@ -1,57 +1,55 @@
-# Sanatan Dharm — Daily Analysis (2026-11-16)
+# Sanatan Dharm — Daily Analysis (2026-11-17)
 
-Window: next 2 days = 17-18 Nov (Dev Uthani Fri 20 Nov, Tulsi Vivah Sat 21 Nov are 3-4 days out, so story build-up now, date/vidhi content 19-20 Nov).
-Already posted/queued (not repeated): Chhathi Maiya (x2), Doobte Suraj/Sandhya Arghya (x2), Karna-Surya, Kharna, Kharna Kheer, Nirjala Vrat, Chhath Prasad/Thekua, Mangalwar chicken (queue.json: 10 items, all `uploaded`, none pending, so today's slots are open).
-Note: 15 Nov report ideas (Hayagriva, Vishnu 4-month sleep, Vrinda-Shaligram, Bhrigu, 20-vs-21 date, Tulsi-Ganesha) do not appear in queue.json, so I treat them as unused; this report keeps the best two and adds fresh angles.
+Window: next 2 days = 17-18 Nov. Dev Uthani Ekadashi Fri 20 Nov, Tulsi Vivah Sat 21 Nov are 3-4 days out: story build-up now, date/vidhi only on 19-20 Nov.
+Already posted (queue.json, 13 items, all `uploaded`, none pending, so 17 Nov slots are open): Chhathi Maiya x2, Doobte Suraj/Sandhya Arghya x2, Karna-Surya, Kharna, Kharna Kheer, Nirjala Vrat, Chhath Prasad/Thekua, Mangalwar chicken, Tirupati, Kashi, Nimbu-mirchi. Chhath is over; no more Chhath. Ideas from the 15/16 Nov reports (Vrinda, Sakshi Gopal, Kamdev, Narad, Bhrigu) are still unposted; they are kept where they still rank, with new angles added.
 
 ## Top 6 topic ideas (17-18 Nov)
-1. **वृंदा का श्राप: विष्णु शालिग्राम पत्थर क्यों बने?** (17 Nov, best fit: Tulsi Vivah 21 Nov)
+1. **वृंदा का श्राप: विष्णु शालिग्राम पत्थर क्यों बने?** (17 Nov)
    - Hook (Hi): "एक पतिव्रता के श्राप से भगवान विष्णु पत्थर बन गए. क्यों?"
-   - Why: emotional character story (our best retention type; Kunti 55.7%). Tulsi/Dev Uthani is the single hottest subject: 12+ of the top 15 fastest Hindi Shorts this week are Dev Uthani/Tulsi Vivah (Noor Darshan 767k views at 115 s, 27k likes; Rukku Arora 437k, 4.7k-sub channel). Nearly all are date/vidhi; the *story* angle is less crowded.
-   - Fact basis: Vrinda-Jalandhar-Shaligram katha (Padma/Devi Bhagavata tradition); Tulsi Vivah = Vishnu(Shaligram)-Tulsi marriage on 21 Nov (GaneshaSpeaks, HinduTone). Label "मान्यता/पुराणों के अनुसार".
-2. **1500 KM चलकर भक्त के लिए गवाही देने आए कृष्ण: साक्षी गोपाल** (17 Nov)
+   - Why: emotional character story (our best retention type: Kunti 64% stayed). Tulsi Vivah is the hottest subject this week, but vidIQ shows almost all Tulsi Shorts are vidhi/upay; the katha angle is open. Only 1 of ~12 top Tulsi Shorts is a story (Bhakti Sadhna Bharat "Vrinda Jalandhar" tags, 12.9k views, 3 min).
+   - Fact basis: Tulsi Vivah = Vishnu (Shaligram)-Tulsi marriage, Sat 21 Nov in India (HinduTone, GaneshaSpeaks, devaastha for Ekadashi 20 Nov). Vrinda-Jalandhar-Shaligram is a Puranic katha (Padma/Devi Bhagavata). Label "पुराणों की मान्यता".
+2. **भगवान विष्णु साँप (शेषनाग) पर ही क्यों सोते हैं?** (17 Nov, new)
+   - Hook: "विष्णु जी बिस्तर पर नहीं, साँप पर क्यों सोते हैं?"
+   - Why: Ai Bhakti Sagar (113k) 16.3k views at 3,840 views/hr in a few hours (vidIQ), 60 s, 5.5% likes. Ties into Dev Uthani (Vishnu wakes after 4 months of Yoga Nidra), so the audience is primed.
+   - Fact basis: Vishnu on Sheshnag in Kshirsagar is standard iconography (Vishnu Purana, Bhagavata); Dev Uthani = Vishnu wakes from Chaturmas sleep (all calendar sources). Label मान्यता.
+3. **माँ मनसा देवी को पार्वती का श्राप क्यों मिला?** (17-18 Nov, new)
+   - Hook: "माता पार्वती ने अपनी ही बेटी जैसी देवी को श्राप क्यों दिया?"
+   - Why: TheCuriousDetour, a 33-subscriber channel, got 283.6k views, 6.9k likes in about 4 days with a "श्राप क्यों" title (160 s). Shows a curse-question title wins even without channel size. Emotional wronged-character story, fits our retention data.
+   - Fact basis: Manasa Devi is Shiva's mind-born daughter, Nag-mata, per Devi Bhagavata/Brahmavaivarta tradition; the Parvati curse episode varies by text, so say "एक मान्यता के अनुसार". Competitor stats from vidIQ.
+4. **1500 KM चलकर भक्त के लिए गवाही देने आए कृष्ण: साक्षी गोपाल** (18 Nov)
    - Hook: "भगवान खुद पैदल चलकर गवाही देने आए! कहाँ?"
-   - Why: Niladri Katha (138k subs) 1.85M views, 63k likes, 4.8k comments, ~21k views/hr (3 min). Temple-miracle-with-a-promise story = shock hook + emotional payoff; no festival dependence, cheap to adapt to 45-55 s.
-   - Fact basis: Sakshi Gopal temple (Satyabadi, near Puri, Odisha) legend of Vidyadhar/Brahmin and Krishna as witness; widely documented temple tradition. Competitor stats from vidIQ. Label "मंदिर की मान्यता".
-3. **भगवान शिव ने कामदेव को भस्म क्यों किया?** (18 Nov)
+   - Why: Niladri Katha 1.85M views (15 Nov report). Temple miracle with a promise, shock hook plus emotional payoff, no festival dependence.
+   - Fact basis: Sakshi Gopal temple (Satyabadi, near Puri, Odisha) legend of the Brahmin and Vidyadhar; widely documented temple tradition. Label "मंदिर की मान्यता".
+5. **गणेश जी को तुलसी क्यों नहीं चढ़ाई जाती?** (18 Nov, Tulsi Vivah tie-in)
+   - Hook: "तुलसी के बिना विष्णु पूजा अधूरी, फिर गणेश जी को तुलसी क्यों मना है?"
+   - Why: question hook that rides Tulsi demand with a story, not a vidhi. Yugantar Studios did 15k views, 7.3% likes, 68 comments (high comment rate), so there is demand but no saturation. Add Tulsi's curse on Ganesha for the emotional beat.
+   - Fact basis: Brahmavaivarta Purana (Ganesha-Tulsi curse episode, named by Yugantar Studios in tags). Label पुराणों की मान्यता.
+6. **भगवान शिव ने कामदेव को भस्म क्यों किया?** (18 Nov)
    - Hook: "शिव ने तीसरी आँख खोली और कामदेव राख हो गया. क्यों?"
-   - Why: "क्यों + 😱" question title, Shiv Puran story, trending Shiv-katha Shorts from small channels (Bhakti vani 114k at 25 s; KuruKshetra KathaManthan Shiva story 468k, 182k subs). Ends on Rati's plea -> emotional, fits Kartik/Shiv-month viewing.
-   - Fact basis: Kamadeva dahana (Shiva Purana, Kumarasambhava tradition; Rati gets boon that he returns as Pradyumna). Label मान्यता.
-4. **नारद ने भगवान विष्णु को श्राप क्यों दिया?** (17/18 Nov, Vishnu-week tie-in)
-   - Hook: "नारद जी ने भगवान विष्णु को ही श्राप दे दिया! वजह?"
-   - Why: "curse vs. Vishnu" is the repeating winning pattern (Mahadi Vision Bhrigu-Vishnu 935k at 159 s, 11.9k-sub channel; Guru Kripa Narad-Vishnu already starting, only 12.9k views so not saturated). Vishnu is the subject of Dev Uthani, so audience is primed.
-   - Fact basis: Narada's moha / Vishnu as Rama separated from Sita (Devi Bhagavata, Ramcharitmanas Bal Kand). Label मान्यता.
-5. **महर्षि भृगु ने विष्णु की छाती पर लात क्यों मारी?** (18 Nov)
-   - Hook: "ऋषि ने भगवान विष्णु की छाती पर लात मारी, और विष्णु ने क्या किया?"
-   - Why: same Mahadi Vision video above is now 935k (was 772k yesterday, still climbing) so the angle is still live and replicable by a small channel; forgiveness payoff.
-   - Fact basis: Bhrigu tests the Trimurti; Shrivatsa mark (Bhagavata Purana tradition). Label मान्यता.
-6. **देवउठनी एकादशी 20 या 21 नवंबर? व्रत कब खोलें?** (post 19 Nov at latest)
-   - Hook: "देवउठनी एकादशी 20 को या 21 को? ज़्यादातर लोग पारण गलत दिन करते हैं!"
-   - Why: date-confusion is dominant but crowded (Shri Madan Mohan Ji Rajakhera "20 या 21" 99k; Lifestyle with God "20 या 21, त्रिस्पर्शा एकादशी" 24k). Only post as ONE short 30-40 s slot; do not make more than one vidhi/date video.
-   - Fact basis: Ekadashi Fri 20 Nov, Tulsi Vivah Sat 21 Nov (GaneshaSpeaks and HinduTone). Say "तिथि 20 नवंबर, पारण स्थानीय पंचांग देखें"; no muhurat times claimed.
-- Backups (22-24 Nov): वैकुंठ चतुर्दशी (Mon 23 Nov): विष्णु का 1000 कमल / आँख की कथा; देव दीपावली + कार्तिक पूर्णिमा (Tue 24 Nov): त्रिपुरासुर वध / शिव त्रिपुरारी; बाणासुर 1000 भुजाएँ (Itihas Aur Rahasya 165k).
+   - Why: Bhakti vani 254k views at 25 s, still 2.8k views/hr (vidIQ). Rati's plea gives an emotional ending.
+   - Fact basis: Kamadeva dahana (Shiva Purana, Kumarasambhava tradition). Label मान्यता.
+- Only ONE date video: "देवउठनी एकादशी 20 नवंबर, पारण कब?" on 19 Nov, 30-40 s. Competitors "20 या 21" are many (bhakti kanha ki 10.8k, Divya Upay 20k); crowded, so keep it single.
+- Backups 22-24 Nov: वैकुंठ चतुर्दशी (Mon 23 Nov) विष्णु का 1000 कमल कथा; देव दीपावली/कार्तिक पूर्णिमा (Tue 24 Nov) त्रिपुरासुर वध; बाणासुर 1000 भुजाएँ (Itihas Aur Rahasya 208k).
 
-Suggested order: 17 Nov -> #1 (Vrinda), #2 (Sakshi Gopal), #4 (Narad). 18 Nov -> #3 (Kamdev), #5 (Bhrigu), #6 only on 19 Nov.
+Suggested order: 17 Nov -> #1 Vrinda, #2 Sheshnag, #3 Manasa. 18 Nov -> #4 Sakshi Gopal, #5 Ganesh-Tulsi, #6 Kamdev.
 
-## Festival calendar (16 Nov - 24 Nov, + just beyond)
-Verified on two pages (GaneshaSpeaks Nov 2026 calendar + HinduTone Tulsi Vivah article, both fetched this run). Drik Panchang fetch was blocked, so not checked there.
-- 15-16 Nov: Chhath Puja (GaneshaSpeaks: main day Sun 15 Nov; HinduTone header: 13-16 Nov, Usha Arghya 16 Nov). Over/ending today; stop Chhath content.
-- Fri 20 Nov: Devutthana/Prabodhini Ekadashi (both sources); Kansa Vadh (GaneshaSpeaks, previous run)
-- Sat 21 Nov: Tulsi Vivah in India/USA/UK/UAE (both sources; HinduTone: Dwadashi starts ~6:31 AM IST 21 Nov). Sun 22 Nov for Australia/NZ/Singapore/Malaysia (HinduTone).
+## Festival calendar (17-24 Nov)
+Sources: GaneshaSpeaks Nov 2026 calendar and HinduTone (checked 16 Nov run); this run re-confirmed Ekadashi from devaastha ("Dev Uthani Ekadashi 2026: Fri 20 Nov") and India TV Nov 2026 calendar, but only search titles were visible, not page bodies.
+- Fri 20 Nov: Dev Uthani / Prabodhini Ekadashi (devaastha, GaneshaSpeaks, HinduTone). Many Shorts say "20 या 21", so state: "एकादशी 20 नवंबर, पारण स्थानीय पंचांग देखें".
+- Sat 21 Nov: Tulsi Vivah (India). Sun 22 Nov for Australia/NZ/Singapore/Malaysia (HinduTone).
 - Mon 23 Nov: Vaikuntha Chaturdashi (GaneshaSpeaks)
-- Tue 24 Nov: Kartik Purnima + Dev Diwali + Guru Nanak Jayanti (both sources agree on 24 Nov)
+- Tue 24 Nov: Kartik Purnima + Dev Diwali (Varanasi) + Guru Nanak Jayanti (GaneshaSpeaks, HinduTone)
 - Wed 25 Nov: Rohini Vrat (GaneshaSpeaks)
-- December (HinduTone, single source, not re-verified): Utpanna Ekadashi Fri 4 Dec; Masik Shivaratri Mon 7 Dec (also in HinduTone sidebar this run); Vivah Panchami Mon 14 Dec; Gita Jayanti/Mokshada Ekadashi Sun 20 Dec.
-- Not verified: Akshaya/Amla Navami, Pradosh, Sankashti Chaturthi, Kalabhairav Jayanti (not on either source). Do not post specific dates for these.
-- Correction note: a "17 Nov" appears on HinduTone only as a panchang ticker (tithi), NOT as Tulsi Vivah date. Tulsi Vivah = 21 Nov.
+- Not verified, do not claim exact dates: Gopashtami, Akshaya/Amla Navami (competitors are already posting them, so they are about now or just passed), Pradosh, Sankashti. Utpanna Ekadashi 4 Dec (HinduTone, single source).
+- Caveat: a HinduTone page title says "Tulsi Vivah 2026 date (November 17)"; treat as its ticker/tithi, all other sources say 21 Nov.
 
-## Competitor patterns (vidIQ Hindi Shorts, published 10-15 Nov, sorted by recent views/hr)
-- Dev Uthani/Tulsi cluster: Dev Marg (119k) 11 s "बिना सुने आगे मत बढ़ना" 358k, 16.2k views/hr, 3.4% eng.; Noor Darshan (7k) 115 s 768k, 3.7% eng., 1,032 comments; Atma Shakti Gyan (2.1k subs) 37 s 623k; Rukku Arora (4.7k) 61 s 437k; Mr.HighThink 29 s 514k. Small channels win, timing > size. Most are 11-60 s vidhi/upay with low comments (0.5-2% eng.), except Noor Darshan.
-- Myth-story cluster: Niladri Katha Sakshi Gopal 1.85M (174 s, 21k/hr, 4.8k comments); Mahadi Vision Bhrigu 935k (159 s); KuruKshetra KathaManthan Shiva 468k (81 s); Bhakti Drishayam Arjun-Ganga curse 679k (48 s); Itihas Aur Rahasya Banasura 165k (162 s). Story Shorts with 4.5%+ engagement are mostly 80-180 s.
-- One-off outlier: Yogendra Vrindavan 7 s "कृष्ण की वंशी से बना कुआँ/कुहा" 2.37M views at 72k views/hr but only 0.5% engagement: a 7-s loop/visual, not a story; ignore for our retention goal.
-- Title formulas: "😱" + "क्यों/कैसे/रहस्य"; number + place ("1500 KM पैदल"); "बिना सुने आगे मत बढ़ना / ये गलती न करें" urgency; "20 या 21" date confusion; "श्राप" + a god's name; "2026" + vidhi.
-- Hook styles: shock claim about a god in line 1, answer withheld until the end, thumbnail/title with 😱; date-confusion titles for search.
-- Caveat: vidIQ snapshots, not verified channel analytics; engagement = likes/views.
+## Competitor patterns (vidIQ Hindi Shorts published 12-16 Nov, sorted by recent views/hr)
+- Dev Uthani/Tulsi vidhi cluster: Idea Express (228k subs) "पीले धागे का महाउपाय" 2.04M views, 99 s, 4.4% likes, 24k/hr; Noor Darshan (7k subs) 1.18M at 115 s; Sonam Gupta (17k) "तुलसी पूजा के 6 नियम, 20 नवंबर को ये गलती न करें" 765k at 62 s, 17.8k/hr; Rukku Arora (4.7k) 590k; Delighted Daily Vlogs (2.5k) "5 चीज़ें अर्पित करना न भूलें" 324k at 43 s. Small channels win with timing, but engagement on pure vidhi is low (0.7-1.3% for the two smallest).
+- Myth-story cluster: TheCuriousDetour (33 subs) Mansa Devi curse 284k, 160 s; Bhakti vani Kamdev 254k, 25 s; Itihas Aur Rahasya Banasura 208k, 162 s; divya krishan katha Akshay Navmi 74k, 181 s; Ai Bhakti Sagar Sheshnag 16k in hours, 3.8k/hr.
+- Notable: most story Shorts are 2-3 min (technically long Shorts) with 2.5-7.5% likes; vidhi Shorts 40-60 s. Several channels are small/AI-voiced (Ai Bhakti Sagar), so format is copyable.
+- Title formulas: "क्यों" + god/curse ("श्राप क्यों मिला"); emoji 😱/😮 in line 1; "20 नवंबर को ये गलती न करें" urgency; "5/6 नियम / 5 चीज़ें" number lists; question + "कथा" tag.
+- Hook styles: shock about a god's action, answer withheld; urgency + date; list promise.
+- Caveat: vidIQ snapshots, not verified analytics; likes/views used as engagement.
 
 ## Retention recommendation
-Keep the shock-question hook in the first 2 s (on screen + voice), but for story Shorts this week extend to ~60-75 s with a mid-story reversal at ~35 s and a one-line payoff that loops back to the hook; competitors scaling on story Shorts are 80-180 s with 3.5-4.8% engagement vs 0.5-2% for 15-40 s vidhi clips. Test one 60-75 s story (Vrinda or Sakshi Gopal) against our 45-55 s default and compare average % viewed.
+Own data (NOTES.md, 16 Nov): story/emotion beats ritual facts (Kunti 64% stayed vs Kharna 42%). Keep first frame + first spoken line as a question about the character, then add one mid-story reversal around 25-30 s and end with a line that loops to the hook. This week test one 60-70 s story (Vrinda or Manasa) against our 45-55 s default and compare average % viewed after 48 h.
