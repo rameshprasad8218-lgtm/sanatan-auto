@@ -46,3 +46,9 @@ Plan per video: hook = lean-in; mid-story twist = backdrop-word with the key wor
 ## 17 Nov 15:38 - decision from Aditya
 - Puppet / Madhubani / 3D-character experiments are DROPPED. Keep making daily videos with the painted engine (engine/painted) exactly as before.
 - Queue already covers up to tomorrow; no extra videos needed today. Daily 07:23 IST engine continues unchanged.
+
+## 17 Nov 17:11 - SHADOW PUPPET STYLE is now the ONLY style (Aditya approved the 16 s trial: "yahi chahiye tha")
+- All Sanatan Dharm videos from 18 Nov: engine/shadow (read engine/shadow/GUIDE.md). Painted engine + paper-cut + puppet-photo + 3D experiments are retired (the earlier 15:38 note about the painted engine is superseded).
+- Audio deeper + clearer (sfx.py bed/duck/-14 LUFS), 60 fps video, hook in 2 s, new picture every 2-4 s.
+- Aditya wants real analysis before making content (own stats + competitor titles/hashtags/tags). Competitor insight for "hanuman seena": top Shorts titles use the phrase "हनुमान जी ने सीना क्यों चीरा" + #shorts #hanuman #hanumanji #ramayan #bhakti #jaishreeram #bajrangbali; top video 28M views, 54 s.
+- Do NOT make extra videos on 17 Nov; production starts with the 18 Nov 07:23 run.
