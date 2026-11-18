@@ -9,7 +9,7 @@ def trim(a,thr=0.012):
 for name in sys.argv[1:]:
     s=STORIES[name]; out=[]; tl=[]; t=0.35; out.append(np.zeros(int(0.35*SR),dtype=np.float32))
     for i,line in enumerate(s["lines"]):
-        a,sr=k.create(line,voice=s["voice"],speed=0.88,lang="hi"); assert sr==SR
+        a,sr=k.create(line,voice=s["voice"],speed=float(__import__("os").environ.get("SPD","1.0")),lang="hi"); assert sr==SR
         a=trim(a.astype(np.float32)); d=len(a)/SR
         gap=0.42 if line.rstrip().endswith(("।","?")) else 0.3
         tl.append({"i":i,"text":line,"start":round(t,3),"end":round(t+d,3)})
