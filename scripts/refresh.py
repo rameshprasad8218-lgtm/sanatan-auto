@@ -21,8 +21,8 @@ for v in q:
     if v.get("refreshed"): continue
     try:
         cur = yt.videos().list(part="snippet", id=vid).execute()["items"][0]["snippet"]
-        desc = v["description"] + (FOOT if "रोज़ 3 नई कहानियाँ" not in cur.get("description", "") else "")
-        body = {"id": vid, "snippet": {"title": cur["title"], "description": desc, "tags": v.get("tags", cur.get("tags", [])),
+        desc = v["description"]
+        body = {"id": vid, "snippet": {"title": v.get("title", cur["title"]), "description": desc, "tags": v.get("tags", cur.get("tags", [])),
                 "categoryId": cur["categoryId"], "defaultLanguage": "hi"}}
         yt.videos().update(part="snippet", body=body).execute(); v["description"] = desc; v["refreshed"] = True; print(n, "desc ok")
     except HttpError as e: print(n, "update FAIL", e.resp.status, str(e)[:160])
