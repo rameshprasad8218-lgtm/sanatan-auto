@@ -22,7 +22,8 @@
   "video_id": "aaOtyGy7Jbg",
   "publish_now": true,
   "published": true,
-  "refreshed": true
+  "refreshed": true,
+  "thumb_done": true
  },
  {
   "file": "videos/06_doobta_suraj.mp4",
@@ -46,7 +47,8 @@
   "video_id": "DHAzYBkFKWE",
   "publish_now": true,
   "published": true,
-  "refreshed": true
+  "refreshed": true,
+  "thumb_done": true
  },
  {
   "file": "videos/07_karna_surya.mp4",
@@ -67,7 +69,8 @@
   ],
   "pinned_comment": "कर्ण जैसा दानवीर कौन? 🙏 आपको क्या लगता है, कमेंट में बताएं।",
   "video_id": "4yteJ-YHwdM",
-  "refreshed": true
+  "refreshed": true,
+  "thumb_done": true
  },
  {
   "file": "videos/08_kharna_kya_hai.mp4",
@@ -91,7 +94,8 @@
   ],
   "pinned_comment": "जय छठी मैया 🙏 आपके घर में खरना का प्रसाद किसने बनाया? कमेंट में \"जय छठी मैया\" लिखें।",
   "video_id": "-OkfPrZIw1w",
-  "refreshed": true
+  "refreshed": true,
+  "thumb_done": true
  },
  {
   "file": "videos/09_kharna_ki_kheer.mp4",
@@ -114,7 +118,8 @@
   ],
   "pinned_comment": "खरना की खीर का स्वाद कौन भूल सकता है 😍 आपके यहाँ प्रसाद में और क्या बनता है? नीचे लिखें।",
   "video_id": "nbNW2hjY7-A",
-  "refreshed": true
+  "refreshed": true,
+  "thumb_done": true
  },
  {
   "file": "videos/10_nirjala_vrat.mp4",
@@ -137,7 +142,8 @@
   ],
   "pinned_comment": "हर व्रती माँ को प्रणाम 🙏 अपनी माँ के लिए एक बार \"जय छठी मैया\" ज़रूर लिखें।",
   "video_id": "ySzgsomrXj0",
-  "refreshed": true
+  "refreshed": true,
+  "thumb_done": true
  },
  {
   "file": "videos/13_sandhya_arghya.mp4",
@@ -161,7 +167,8 @@
   ],
   "pinned_comment": "आप छठ का अर्घ्य कहाँ देते हैं, घाट पे या घर पे? 👇 जय छठी मैया 🙏",
   "video_id": "ctobu48JmBo",
-  "refreshed": true
+  "refreshed": true,
+  "thumb_done": true
  },
  {
   "file": "videos/11_chhathi_maiya.mp4",
@@ -184,7 +191,8 @@
   ],
   "pinned_comment": "जय छठी मैया 🙏 आपके घर में छठ कौन करता है? माँ, दादी या पूरा परिवार? 👇",
   "video_id": "wOvXTl9n2KM",
-  "refreshed": true
+  "refreshed": true,
+  "thumb_done": true
  },
  {
   "file": "videos/12_chhath_prasad.mp4",
@@ -206,7 +214,8 @@
   ],
   "pinned_comment": "ठेकुआ पसंद है तो \"जय छठी मैया\" लिखिए 🙏 और बताइए, घर पर कौन बनाता है?",
   "video_id": "e0yr8e2i7dA",
-  "refreshed": true
+  "refreshed": true,
+  "thumb_done": true
  },
  {
   "file": "videos/14_mangalwar_chicken.mp4",
@@ -253,7 +262,8 @@
   ],
   "pinned_comment": "आप तिरुपति कब गए थे? 👇 गोविंदा गोविंदा 🙏",
   "status": "uploaded",
-  "video_id": "BSRbQW9K2lQ"
+  "video_id": "BSRbQW9K2lQ",
+  "refreshed": true
  },
  {
   "file": "videos/16_bharat_yatra_kashi.mp4",
@@ -276,7 +286,8 @@
   ],
   "pinned_comment": "आप काशी कब गए थे? 👇 हर हर महादेव 🙏",
   "status": "uploaded",
-  "video_id": "xwIPLipMjFQ"
+  "video_id": "xwIPLipMjFQ",
+  "refreshed": true
  },
  {
   "file": "videos/17_driver_nimbu_mirchi.mp4",
@@ -298,7 +309,8 @@
   ],
   "pinned_comment": "आपके ट्रक पर क्या लटका है? 👇 जय बजरंगबली 🙏",
   "status": "uploaded",
-  "video_id": "5DrwBRmrVL8"
+  "video_id": "5DrwBRmrVL8",
+  "refreshed": true
  },
  {
   "file": "videos/19_bharat_yatra_puri.mp4",
@@ -327,7 +339,8 @@
   "status": "uploaded",
   "video_id": "WD29lQEC6dU",
   "publish_now": true,
-  "published": true
+  "published": true,
+  "refreshed": true
  },
  {
   "file": "videos/18_vrinda_shaligram.mp4",
@@ -350,7 +363,8 @@
   ],
   "pinned_comment": "आपके घर में तुलसी है? 🌿 कमेंट में बताओ 👇 जय श्री हरि 🙏",
   "status": "uploaded",
-  "video_id": "w4fmnWeFhCM"
+  "video_id": "w4fmnWeFhCM",
+  "refreshed": true
  },
  {
   "file": "videos/20_driver_nariyal.mp4",
@@ -373,7 +387,8 @@
   ],
   "pinned_comment": "आपकी गाड़ी की पहली पूजा किसने की? 👇 जय बजरंगबली 🙏",
   "status": "uploaded",
-  "video_id": "UcJBxiLPdMA"
+  "video_id": "UcJBxiLPdMA",
+  "refreshed": true
  },
  {
   "file": "videos/21_vidur_kela_chhilka.mp4",
@@ -396,7 +411,8 @@
   ],
   "pinned_comment": "आपको कौन सी कृष्ण कथा सबसे प्यारी लगती है? 👇 जय श्री कृष्ण 🙏",
   "status": "uploaded",
-  "video_id": "dY7bAAjsAck"
+  "video_id": "dY7bAAjsAck",
+  "refreshed": true
  },
  {
   "file": "videos/22_hanuman_sindoor.mp4",
@@ -419,7 +435,8 @@
   ],
   "pinned_comment": "जय बजरंगबली बोलो 👇🚩 आपको यह कथा कैसी लगी?",
   "status": "uploaded",
-  "video_id": "f-DwI3SjTIc"
+  "video_id": "f-DwI3SjTIc",
+  "refreshed": true
  },
  {
   "file": "videos/23_ekadashi_chawal.mp4",
@@ -441,7 +458,8 @@
   ],
   "pinned_comment": "आप एकादशी का व्रत रखते हैं? 👇 जय श्री हरि 🙏",
   "status": "uploaded",
-  "video_id": "bf8No5CAl0g"
+  "video_id": "bf8No5CAl0g",
+  "refreshed": true
  },
  {
   "file": "videos/24_hanuman_seena.mp4",
@@ -468,7 +486,8 @@
   ],
   "pinned_comment": "क्या आपके दिल में भी राम बसते हैं? 🙏 \"जय श्री राम\" लिखिए 👇",
   "video_id": "GPL2R0N858s",
-  "published": true
+  "published": true,
+  "refreshed": true
  },
  {
   "file": "videos/25_tulsi_ganesh.mp4",
@@ -493,7 +512,8 @@
    "पौराणिक कथा"
   ],
   "pinned_comment": "आपको क्या लगता है, गलती तुलसी की थी या गणेश जी की? 🙏 कमेंट में बताइए 👇",
-  "video_id": "E4XfBDaf85k"
+  "video_id": "E4XfBDaf85k",
+  "refreshed": true
  },
  {
   "file": "videos/26_sakshi_gopal.mp4",
@@ -518,7 +538,8 @@
    "भक्त की पुकार"
   ],
   "pinned_comment": "नौजवान ने पीछे क्यों देखा? 🙏 कमेंट में बताइए 👇 जय श्री कृष्ण",
-  "video_id": "FKatFAswLJQ"
+  "video_id": "FKatFAswLJQ",
+  "refreshed": true
  },
  {
   "file": "videos/27_tripurari.mp4",
@@ -543,7 +564,8 @@
    "शिव कथा"
   ],
   "pinned_comment": "इस देव दिवाली आप कौन सा दीप जलाएँगे? 🪔 कमेंट में बताइए 👇 हर हर महादेव",
-  "video_id": "Ymg8bnH2rQ0"
+  "video_id": "Ymg8bnH2rQ0",
+  "refreshed": true
  },
  {
   "file": "videos/28_vishnu_neend.mp4",
@@ -567,6 +589,7 @@
    "विष्णु भगवान"
   ],
   "pinned_comment": "आपके घर में देवउठनी पर क्या खास बनता है? 🙏 कमेंट करें 👇",
-  "video_id": "crwNcLzfPhw"
+  "video_id": "crwNcLzfPhw",
+  "refreshed": true
  }
 ]
