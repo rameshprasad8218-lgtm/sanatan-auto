@@ -1,10 +1,10 @@
 {
  "channel": "Hindutvasanatandharmkatha",
  "stats": {
-  "viewCount": "5718",
-  "subscriberCount": "4",
+  "viewCount": "6133",
+  "subscriberCount": "7",
   "hiddenSubscriberCount": false,
-  "videoCount": "17"
+  "videoCount": "22"
  },
  "videos": [
   {
@@ -39,8 +39,8 @@
    "title": "खरना क्या है? 🙏 माँएँ पूरे दिन पानी भी क्यों नहीं ",
    "pub": "2026-11-14T07:45:12Z",
    "privacy": "public",
-   "views": "1255",
-   "likes": "40",
+   "views": "1277",
+   "likes": "41",
    "comments": "0"
   },
   {
@@ -48,7 +48,7 @@
    "title": "खरना की खीर में चीनी क्यों नहीं डालते? 🍚 #Chhath #",
    "pub": "2026-11-14T12:30:02Z",
    "privacy": "public",
-   "views": "707",
+   "views": "708",
    "likes": "18",
    "comments": "0"
   },
@@ -57,7 +57,7 @@
    "title": "36 घंटे का निर्जला व्रत 🙏 माँ की ताक़त #Chhath #Sh",
    "pub": "2026-11-14T15:30:14Z",
    "privacy": "public",
-   "views": "347",
+   "views": "348",
    "likes": "9",
    "comments": "0"
   },
@@ -66,8 +66,8 @@
    "title": "दुनिया उगते सूरज को पूजती है, छठ में डूबते को पहले",
    "pub": "2026-11-15T12:30:02Z",
    "privacy": "public",
-   "views": "115",
-   "likes": "2",
+   "views": "141",
+   "likes": "7",
    "comments": "0"
   },
   {
@@ -75,7 +75,7 @@
    "title": "छठ में जिनकी पूजा होती है, वो छठी मैया कौन हैं? 🙏 ",
    "pub": "2026-11-15T07:30:14Z",
    "privacy": "public",
-   "views": "421",
+   "views": "441",
    "likes": "21",
    "comments": "0"
   },
@@ -84,7 +84,7 @@
    "title": "छठ के प्रसाद में ये चीज़ कभी नहीं डलती 🙏 ठेकुआ का ",
    "pub": "2026-11-15T15:30:33Z",
    "privacy": "public",
-   "views": "45",
+   "views": "46",
    "likes": "0",
    "comments": "0"
   },
@@ -93,7 +93,7 @@
    "title": "ड्राइवर मंगलवार को चिकन क्यों नहीं खाता? 🙏 #Shorts",
    "pub": "2026-11-14T08:10:24Z",
    "privacy": "public",
-   "views": "899",
+   "views": "900",
    "likes": "6",
    "comments": "0"
   },
@@ -102,7 +102,7 @@
    "title": "तिरुपति में लोग बाल क्यों देते हैं? 🛕 | भारत यात्र",
    "pub": "2026-11-16T08:00:06Z",
    "privacy": "public",
-   "views": "44",
+   "views": "49",
    "likes": "1",
    "comments": "0"
   },
@@ -111,7 +111,7 @@
    "title": "काशी को मोक्ष की नगरी क्यों कहते हैं? 🔱 | भारत यात",
    "pub": "2026-11-16T12:30:14Z",
    "privacy": "public",
-   "views": "90",
+   "views": "110",
    "likes": "2",
    "comments": "0"
   },
@@ -120,8 +120,71 @@
    "title": "ट्रक पर नींबू-मिर्च क्यों लटकाते हैं? 🍋🌶️ | ड्राइव",
    "pub": "2026-11-16T15:30:13Z",
    "privacy": "public",
-   "views": "12",
+   "views": "98",
+   "likes": "2",
+   "comments": "0"
+  },
+  {
+   "id": "WD29lQEC6dU",
+   "title": "जगन्नाथ जी की मूर्तियाँ अधूरी क्यों हैं? 🛕 | भारत ",
+   "pub": "2026-11-17T02:13:40Z",
+   "privacy": "private",
+   "views": "0",
    "likes": "0",
+   "comments": "0"
+  },
+  {
+   "id": "w4fmnWeFhCM",
+   "title": "भगवान विष्णु पत्थर क्यों बन गए? 😱 वृंदा का श्राप |",
+   "pub": "2026-11-17T02:13:42Z",
+   "privacy": "private",
+   "views": "0",
+   "likes": "0",
+   "comments": "0"
+  },
+  {
+   "id": "UcJBxiLPdMA",
+   "title": "नई गाड़ी पर सबसे पहले नारियल क्यों फोड़ते हैं? 🥥 |",
+   "pub": "2026-11-17T02:13:44Z",
+   "privacy": "private",
+   "views": "0",
+   "likes": "0",
+   "comments": "0"
+  },
+  {
+   "id": "dY7bAAjsAck",
+   "title": "भगवान ने केला छोड़कर छिलका क्यों खाया? 😭 | श्रीकृष",
+   "pub": "2026-11-17T07:30:01Z",
+   "privacy": "public",
+   "views": "43",
+   "likes": "3",
+   "comments": "0"
+  },
+  {
+   "id": "f-DwI3SjTIc",
+   "title": "हनुमान जी ने पूरे शरीर पर सिंदूर क्यों लगाया? 🚩 | ",
+   "pub": "2026-11-17T12:30:21Z",
+   "privacy": "public",
+   "views": "291",
+   "likes": "10",
+   "comments": "0"
+  },
+  {
+   "id": "bf8No5CAl0g",
+   "title": "एकादशी पर चावल क्यों नहीं खाते? 🍚 | महर्षि मेधा की",
+   "pub": "2026-11-17T15:30:24Z",
+   "privacy": "public",
+   "views": "85",
+   "likes": "4",
+   "comments": "0"
+  },
+  {
+   "id": "GPL2R0N858s",
+   "title": "हनुमान जी ने अपना सीना क्यों चीरा? 😳🙏 #shorts #han",
+   "pub": "2026-11-17T09:04:24Z",
+   "privacy": "public",
+   "views": "583",
+   "likes": "21",
    "comments": "0"
   }
  ]
