@@ -11,5 +11,5 @@ head = f'''<meta charset="utf-8"><title>{name}</title>
 <canvas id="cv" width="1080" height="1920"></canvas>
 <script>window.HT_JSON={json.dumps(timings)};</script>
 '''
-body = f'<script>\n{r("lib/harness.js")}\n</script>\n<script>\n(function(){{\n' + '\n'.join(r(p) for p in ['src/ref.js', 'src/story.js', 'src/puppets_indic.js', 'src/puppets_gods.js', f'stories/{name}.js'] + (['src/reel.js'] if 'const STORY' in (H / f'stories/{name}.js').read_text() else [])) + '\n})();\n</script>\n'
+body = f'<script>\n{r("lib/harness.js")}\n</script>\n' + (f'<script>\n{r("lib/anime.umd.min.js")}\n</script>\n' if 'anime' in (H / f'stories/{name}.js').read_text() else '') + f'<script>\n(function(){{\n' + '\n'.join(r(p) for p in ['src/ref.js', 'src/story.js', 'src/puppets_indic.js', 'src/puppets_gods.js', f'stories/{name}.js'] + (['src/reel.js'] if 'const STORY' in (H / f'stories/{name}.js').read_text() else [])) + '\n})();\n</script>\n'
 (H / f'out/{name}.html').write_text(head + body); print('wrote', f'out/{name}.html')

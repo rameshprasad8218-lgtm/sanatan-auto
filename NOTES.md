@@ -67,3 +67,6 @@ Plan per video: hook = lean-in; mid-story twist = backdrop-word with the key wor
 - Length ~30 s (TTS speed 1.08 hm_omega, 7 lines). Audio via mkev_gods.py + sfx.py (boom at 0, shimmer on beats, gong on payoff). Render FPS=60 (~7 min), mux with ffmpeg.
 - Characters are ORIGINAL designs (do not copy other creators' characters). RAM/LAK/SH presets exist; add new characters as presets (skin, cloth, cloth2, head{hair,hc,crown,tilak,...}).
 - 29_shabari_ber queued 19 Nov 13:00. Shadow-puppet style remains available for dark/epic stories only.
+
+## 18 Nov — anime.js adopted
+engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when story uses `anime`; timelines seeked per frame (deterministic). Used in sudama30 for zoom punch, run overshoot, palace spring, flash. Voice fades 30ms at cuts idea from video-use. VoiceStudio not used.
