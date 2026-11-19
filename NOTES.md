@@ -70,3 +70,10 @@ Plan per video: hook = lean-in; mid-story twist = backdrop-word with the key wor
 
 ## 18 Nov — anime.js adopted
 engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when story uses `anime`; timelines seeked per frame (deterministic). Used in sudama30 for zoom punch, run overshoot, palace spring, flash. Voice fades 30ms at cuts idea from video-use. VoiceStudio not used.
+
+## 19 Nov (07:23 IST run) — analysis + 3 cut-out videos
+- Slots 19 Nov 07/13/19 were already filled (26 Sakshi, 29 Shabari, 30 Sudama), so this run filled 20 Nov 07:00 / 13:00 / 19:00: 31 Bhishma (arrow bed, Bhishma Panchak starts 20 Nov), 32 Karna kavach-daan, 33 Vishnu eye-lotus for Shiva (Vaikuntha Chaturdashi week, 23 Nov). Dev Uthani already covered by 28 Vishnu-neend.
+- Stats at 06:30 IST were still the 18 Nov snapshot (6,133 views, 7 subs): Kharna 1,277, Mangalwar 900, Hanuman seena 583 / 21 likes (3.6% likes, best story), painted Vidur 43 / Ekadashi 85, paper-cut Tirupati/Kashi/Nimbu 49/110/98. Shabari (first cut-out) / Sudama had not published yet, so style comparison is pending: judge them on 21 Nov.
+- Lesson: "क्यों + well-known character + sacrifice" titles; story likes 3-4% vs vidhi/fact 0.5-2% in the data. vidIQ credits are 0, WebSearch only returns titles (no view counts) so competitor pull is directional.
+- Lesson (production): Kokoro hm_omega at speed 1.08 = about 12 chars/s incl. gaps; 7 lines x ~52 chars = 370 chars = 32 s. 480 chars gave 40 s: keep lines <= 55 chars.
+- Engine: engine/shadow/gen.py builds stories/<name>.js from parts/lib.js (+ parts/extra.js: zbeard, zeye3, zmoon, zfeather, zarrow, zlotus, zchakra, zshivling, zrays, ztxt) + parts/<name>.js (characters + 7 scenes) + parts/common.js (captions/hook, placeholders from parts/<name>.json). zface has an `o.post(c,r)` callback for beards/third eye/feather. TTS scripts: ~/sd/scripts.py copy in engine/painted/scripts_19nov.py.
