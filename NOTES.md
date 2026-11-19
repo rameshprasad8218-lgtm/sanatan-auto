@@ -80,3 +80,4 @@ engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when st
 
 ## 19 Nov (chat, 'Analysis + aaj ki videos') — filled 21 Nov 07:00/19:00 and 22 Nov 07:00 with 34 Lakshman-neend, 35 Ekalavya, 36 Hanuman-Sanjeevani. New scene helper: T/U/SCN (scene times auto from HT.lines) in parts/<name>.js. Stats 19 Nov 08:30: 7 subs, 7,135 views; Kharna 1,277 best; Shabari/Sudama just published. Free slots after this: 22 Nov 13:00 is taken (20?), check queue before next run. TTS scripts for new stories live in /home/claude/sd/scripts_new.py (copy in engine/painted/).
 - 19 Nov 09:00 Hanuman preset (HAN in parts/sanjeevani30.js): vanar face via zface o.pre/o.post (muzzle, pointed ears, brow ridge) + zbody o.back (tail). Reuse for all Hanuman videos.
+- 19 Nov 09:20 nudge upload
