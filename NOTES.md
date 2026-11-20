@@ -91,3 +91,5 @@ engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when st
 - Why topics: Ram Setu (Ram naam > Ram: stone floats/sinks twist, Ram+Hanuman = proven demand), Gajendra moksha (Kartik Purnima manyata, 24 Nov, animal + desperate call + Vishnu runs barefoot), Draupadi pallu (Krishna hook, payoff = chir-haran, original emotional story). Hanuman pearl-necklace was skipped (same as seena video 24).
 - Engine: new parts/setu30.js, gajendra30.js, draupadi30.js (elephant eleFace/ele, croc, finger/hall/cloth helpers, sea/stone/splash). TTS in ~/sd needs `pip install kokoro-onnx` (system python works, no venv) and assets from github.com/thewh1teagle/kokoro-onnx releases model-files-v1.0 (curl with --cacert /root/.ccr/ca-bundle.crt).
 - Ops lesson: do not `git checkout main` from a detached HEAD in the shared clone; I cloned fresh into /home/claude/w/sanatan-auto.
+
+## 20 Nov (chat) — 40 Shiv Neelkanth (24 Nov 13:00), 41 Kunti-Karna (24 Nov 19:00), 42 Yashoda-Brahmand (25 Nov 07:00). Stats 20 Nov 08:50: 7,997 views, 7 subs. Next free slot: 25 Nov 13:00. Story scripts in engine/painted/scripts_new.py.
