@@ -93,3 +93,5 @@ engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when st
 - Ops lesson: do not `git checkout main` from a detached HEAD in the shared clone; I cloned fresh into /home/claude/w/sanatan-auto.
 
 ## 20 Nov (chat) — 40 Shiv Neelkanth (24 Nov 13:00), 41 Kunti-Karna (24 Nov 19:00), 42 Yashoda-Brahmand (25 Nov 07:00). Stats 20 Nov 08:50: 7,997 views, 7 subs. Next free slot: 25 Nov 13:00. Story scripts in engine/painted/scripts_new.py.
+
+## 20 Nov 11:20 (chat) — 43 Ujjain Mahakal (Aditya's own "Ankahi Puran" style video, 77 s) added and published immediately on his request (publish_now). Not one of the 3 slot videos; slots unchanged.
