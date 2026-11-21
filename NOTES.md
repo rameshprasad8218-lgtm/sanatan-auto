@@ -95,3 +95,10 @@ engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when st
 ## 20 Nov (chat) — 40 Shiv Neelkanth (24 Nov 13:00), 41 Kunti-Karna (24 Nov 19:00), 42 Yashoda-Brahmand (25 Nov 07:00). Stats 20 Nov 08:50: 7,997 views, 7 subs. Next free slot: 25 Nov 13:00. Story scripts in engine/painted/scripts_new.py.
 
 ## 20 Nov 11:20 (chat) — 43 Ujjain Mahakal (Aditya's own "Ankahi Puran" style video, 77 s) added and published immediately on his request (publish_now). Not one of the 3 slot videos; slots unchanged.
+
+## 21 Nov (07:23 IST run) — 45 Prahlad-Narasimha, 46 Matsya, 47 Kamdev (cut-out style)
+- Free slots found (queue through 25 Nov 07:00): 25 Nov 13:00 (45), 25 Nov 19:00 (46), 26 Nov 07:00 (47). Next free: 26 Nov 13:00.
+- Stats: after stats.trigger push + 90 s, meta/stats.json was still the 20 Nov snapshot (7,997 views, 7 subs, 30 videos; the stats workflow did not refresh in time), so no new numbers; Shabari 52 / 1 like and Sudama 33 / 0 remain the only cut-out data (judge 31-36 on 22 Nov). Numeric lessons carried: Hanuman stories avg ~630 views vs others median ~50; story likes 3-7% vs fact 1-2%; subs flat at 7.
+- Competitor check (WebSearch, titles only, no counts): Prahlad/Narasimha is hot (Mahavatar Narsimha 2025 film explainers dominate results), Matsya has "क्यों लिया था विष्णु ने मछली अवतार #shorts" Shorts, Kamdev/third-eye articles top Hindi news results. Hooks copied: question + character + "क्यों/क्या".
+- Why topics: Prahlad (child devotion + cruel father + shock reveal, film-driven demand), Matsya (Kartik Purnima link, tiny-to-huge visual), Kamdev (shock + Rati plea payoff, Shiva vein). All "lokkatha/manyata" labelled.
+- Production: new parts prahlad30/matsya30/kamdev30 (nrFace lion face, pillar, fish, pot, fbow, fire, shv() Shiva with 3rd eye). TTS: ~/sd (kokoro assets from kokoro-onnx releases; scripts in engine/painted/scripts_21nov.py). Scripts at 27 s (about 300 chars) = slightly short of 28 s; use ~330 chars next time. engine/shadow/run1.sh <name> <videoname> '<extra events json>' does events+sfx+render+mux in one go (3 in parallel took ~4 min total).

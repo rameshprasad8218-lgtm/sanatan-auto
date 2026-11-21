@@ -1,0 +1,40 @@
+  const T = HT.lines.map((l) => l.start); T[0] = 0; const TE = T[T.length - 1] + 6;
+  const U = (i, t) => zc((t - T[i]) / ((T[i + 1] || TE) - T[i]), 0, 1);
+  const SCN = (fs) => fs.map((f, i) => [T[i], i < fs.length - 1 ? T[i + 1] : 99, f]);
+  function fz(c, x, y, r, head, extra) { zface(c, x, y, r, Object.assign({}, head, extra)); }
+  const PRA = { skin: '#d9a074', cloth: '#e8a23a', cloth2: '#f4efe0', head: { hair: 'bun', hc: '#1c1210', tilak: true, earring: true, smile: 0.5, post: (c, r) => zshikha(c, r) } };
+  const HIR = { skin: '#8a4a3a', cloth: '#7a1f2a', cloth2: '#c9a24a', head: { hair: 'bun', hc: '#1a0e0c', crown: true, earring: true, smile: 0, brow: 0.1, post: (c, r) => { c.strokeStyle = '#1a0e0c'; c.lineWidth = r * 0.06; c.beginPath(); c.moveTo(-r * 0.4, r * 0.36); c.quadraticCurveTo(0, r * 0.28, r * 0.4, r * 0.36); c.stroke(); } } };
+  function nrFace(c, x, y, r, t, rage) {
+    c.save(); c.translate(x, y); for (let k = 0; k < 22; k++) { const a = k / 22 * Math.PI * 2; c.fillStyle = k % 2 ? '#e08a1e' : '#b8560f'; c.beginPath(); c.moveTo(Math.cos(a - 0.15) * r * 0.9, Math.sin(a - 0.15) * r * 0.9); c.lineTo(Math.cos(a) * r * (1.55 + 0.08 * Math.sin(t * 6 + k)), Math.sin(a) * r * (1.55 + 0.08 * Math.sin(t * 6 + k))); c.lineTo(Math.cos(a + 0.15) * r * 0.9, Math.sin(a + 0.15) * r * 0.9); c.fill(); }
+    c.fillStyle = '#f0b83c'; c.beginPath(); c.ellipse(0, 0, r, r * 1.05, 0, 0, 7); c.fill(); c.fillStyle = '#e8a02a'; c.beginPath(); c.ellipse(0, r * 0.35, r * 0.55, r * 0.5, 0, 0, 7); c.fill();
+    for (const s of [-1, 1]) { c.fillStyle = '#fffbe8'; c.beginPath(); c.ellipse(s * r * 0.38, -r * 0.1, r * 0.2, r * 0.13, s * 0.3, 0, 7); c.fill(); c.fillStyle = '#b01010'; c.beginPath(); c.arc(s * r * 0.38, -r * 0.1, r * 0.08, 0, 7); c.fill(); c.strokeStyle = '#3a1608'; c.lineWidth = r * 0.07; c.beginPath(); c.moveTo(s * r * 0.7, -r * 0.45); c.lineTo(s * r * 0.15, -r * 0.2); c.stroke(); }
+    c.fillStyle = '#3a1608'; c.beginPath(); c.ellipse(0, r * 0.28, r * 0.1, r * 0.07, 0, 0, 7); c.fill(); c.fillStyle = '#5a0a0a'; c.beginPath(); c.ellipse(0, r * 0.55, r * 0.3, r * (0.1 + 0.12 * rage), 0, 0, 7); c.fill(); c.fillStyle = '#fff'; for (const s of [-1, 1]) { c.beginPath(); c.moveTo(s * r * 0.17, r * 0.48); c.lineTo(s * r * 0.1, r * (0.7 + 0.1 * rage)); c.lineTo(s * r * 0.24, r * 0.5); c.fill(); }
+    c.fillStyle = '#d4362a'; c.beginPath(); c.ellipse(0, -r * 0.5, r * 0.05, r * 0.12, 0, 0, 7); c.fill(); c.restore();
+  }
+  function pillar(c, x, y, w, h, crack, glow) {
+    c.save(); c.translate(x, y); if (glow) { const g = c.createRadialGradient(0, -h * 0.5, 0, 0, -h * 0.5, h * 0.8 * glow); g.addColorStop(0, `rgba(255,200,80,${0.9 * glow})`); g.addColorStop(1, 'rgba(255,160,40,0)'); c.fillStyle = g; c.fillRect(-h, -h * 1.4, h * 2, h * 1.6); }
+    c.fillStyle = '#8c7a66'; c.fillRect(-w / 2, -h, w, h); c.fillStyle = '#b09c84'; c.fillRect(-w / 2 - 20, -h, w + 40, 40); c.fillRect(-w / 2 - 20, -40, w + 40, 40); c.fillStyle = 'rgba(0,0,0,0.18)'; c.fillRect(w * 0.1, -h, w * 0.4, h);
+    if (crack) { c.strokeStyle = `rgba(255,220,120,${crack})`; c.lineWidth = 10 + crack * 14; c.beginPath(); c.moveTo(0, -h); c.lineTo(-18, -h * 0.8); c.lineTo(14, -h * 0.62); c.lineTo(-20, -h * 0.45); c.lineTo(10, -h * 0.25); c.lineTo(0, 0); c.stroke(); } c.restore();
+  }
+  function hall(c, t, warm) { zsky(c, t, warm ? '#3a1408' : '#1c0c18', warm ? '#a8501c' : '#5a1a2a'); for (const x of [90, 990]) { c.fillStyle = '#5a2a18'; c.fillRect(x - 60, 400, 120, 1300); c.fillStyle = '#8a4a28'; c.fillRect(x - 80, 400, 160, 50); } c.fillStyle = '#4a2214'; c.fillRect(0, 1500, 1080, 420); c.fillStyle = 'rgba(255,170,70,0.12)'; c.fillRect(0, 1500, 1080, 6); }
+  function sA(c, t) { const u = U(0, t), z = 1 + 0.07 * u; hall(c, t, false); c.save(); c.translate(540, 1100); c.scale(z, z); c.translate(-540, -1100); fz(c, 540, 1150, 330, PRA.head, { skin: PRA.skin, blink: zblink(t, 1.4), wide: 0.5, smile: 0.1, tear: zs(0.8, 2.2, t) }); c.restore();
+    const g = c.createRadialGradient(540, 1000, 200, 540, 1000, 900); g.addColorStop(0, 'rgba(255,60,30,0)'); g.addColorStop(1, `rgba(255,60,30,${0.3 + 0.1 * Math.sin(t * 6)})`); c.fillStyle = g; c.fillRect(0, 0, 1080, 1920); zmotes(c, t, 22, '#ffb090'); }
+  function sB(c, t) { const u = U(1, t); hall(c, t, false); c.fillStyle = '#c9a24a'; c.beginPath(); c.roundRect(120, 1250, 480, 260, 30); c.fill(); c.fillStyle = '#7a1f2a'; c.fillRect(150, 1280, 420, 230);
+    zbody(c, Object.assign({}, HIR, { x: 360, y: 1560, s: 1.2, dir: 1, a1: -0.5 - 0.3 * Math.sin(t * 5), a2: -0.7, b1: 0.3, b2: 0.3, head: Object.assign({}, HIR.head, { wide: 1, mouth: 0.6, blink: 0 }) }));
+    zbody(c, Object.assign({}, PRA, { x: 800 + 14 * (1 - u), y: 1700, s: 0.82, dir: -1, a1: -1.1, a2: -1.4, b1: -1.0, b2: -1.4, head: Object.assign({}, PRA.head, { blink: zblink(t, 0.5), smile: 0.4 }) }));
+    ztxt(c, 'हिरण्यकशिपु का क्रोध', 540, 400, 90, '#ffb090', zs(0.1, 0.3, u)); zmotes(c, t, 22, '#ffb090'); }
+  function sC(c, t) { const u = U(2, t); zsky(c, t, '#2a1a4a', '#c9783a', 540, 700, 'rgba(255,220,150,0.5)'); zstars(c, t, 20); c.save(); c.translate(540, 1050); c.scale(1.04 + 0.08 * u, 1.04 + 0.08 * u); c.translate(-540, -1050); fz(c, 540, 1100, 320, PRA.head, { skin: PRA.skin, blink: zblink(t, 0.6), smile: 0.8 }); c.fillStyle = PRA.skin; for (const s of [-1, 1]) { c.save(); c.translate(540 + s * 18, 1520); c.rotate(s * 0.25); c.beginPath(); c.ellipse(0, 0, 60, 150, 0, 0, 7); c.fill(); c.restore(); } c.restore();
+    zlotus(c, 540, 1760, 1.4, 0.95); const g = c.createRadialGradient(540, 1100, 100, 540, 1100, 700); g.addColorStop(0, `rgba(255,230,140,${0.35 * zs(0.2, 0.8, u)})`); g.addColorStop(1, 'rgba(255,230,140,0)'); c.fillStyle = g; c.fillRect(0, 400, 1080, 1400); ztxt(c, 'विष्णु का नाम', 540, 420, 110, '#fff1c8', zs(0.1, 0.3, u)); zpetals(c, t, T[2], 14); zmotes(c, t, 26, '#ffe0a8'); }
+  function sD(c, t) { const u = U(3, t); hall(c, t, true); pillar(c, 800, 1560, 190, 900, 0, 0);
+    zbody(c, Object.assign({}, HIR, { x: 300, y: 1620, s: 1.3, dir: 1, a1: -1.4 + 0.1 * Math.sin(t * 6), a2: -1.5, b1: 0.3, b2: 0.3, head: Object.assign({}, HIR.head, { wide: 1, mouth: 0.7, brow: 0.14, blink: 0 }) }));
+    ztxt(c, 'इस खंभे में भी?', 540, 400, 100, '#ffd9a0', zs(0.1, 0.3, u)); zmotes(c, t, 24, '#ffb878'); }
+  function sE(c, t) { const u = U(4, t); hall(c, t, true); pillar(c, 800, 1560, 190, 900, 0.3 * u, 0.3 * u);
+    zbody(c, Object.assign({}, PRA, { x: 330, y: 1680, s: 1.35, dir: 1, a1: -1.15, a2: -1.5, b1: -1.0, b2: -1.5, head: Object.assign({}, PRA.head, { blink: zblink(t, 0.5), smile: 0.8 }) }));
+    ztxt(c, 'हर कण में', 540, 400, 120, '#fff1c8', zs(0.1, 0.3, u)); zmotes(c, t, 24, '#ffe0a8'); }
+  function sF(c, t) { const u = U(5, t), sh = u > 0.35 ? (1 - zs(0.35, 0.75, u)) * 14 : 0; c.save(); c.translate((zr(Math.floor(t * 40)) - 0.5) * sh, (zr(Math.floor(t * 40) + 5) - 0.5) * sh); hall(c, t, true); pillar(c, 540, 1620, 280, 1000, zs(0, 0.35, u), 0.5 + zs(0.2, 0.5, u));
+    if (u > 0.4) { const k = zs(0.4, 0.9, u); zrays(c, 540, 1100, t, 16, `rgba(255,220,120,${0.35 * k})`, 1500); nrFace(c, 540, 1100, 80 + 330 * k, t, 1); }
+    if (u > 0.36 && u < 0.5) { c.fillStyle = `rgba(255,255,230,${0.9 * (1 - (u - 0.36) / 0.14)})`; c.fillRect(0, 0, 1080, 1920); } c.restore(); ztxt(c, 'नरसिंह प्रकट!', 540, 400, 130, '#fff1c8', zs(0.5, 0.7, u)); zmotes(c, t, 24, '#ffd890'); }
+  function sG(c, t) { const u = U(6, t); zsky(c, t, '#3a1408', '#e08a2a', 540, 800, 'rgba(255,220,150,0.7)'); zrays(c, 540, 900, t, 14, 'rgba(255,225,140,0.18)', 1500); c.save(); c.translate(540, 900); c.scale(1.02 + 0.05 * u, 1.02 + 0.05 * u); c.translate(-540, -900); nrFace(c, 540, 900, 300, t, 0.1); c.restore();
+    zbody(c, Object.assign({}, PRA, { x: 540, y: 1840, s: 0.95, dir: 1, a1: -1.15, a2: -1.5, b1: -1.0, b2: -1.5, head: Object.assign({}, PRA.head, { blink: zblink(t, 0.5), smile: 0.9 }) }));
+    ztxt(c, 'जय नरसिंह', 540, 330, 130, '#fff1c8', zs(0.1, 0.3, u)); zpetals(c, t, T[6], 30); zmotes(c, t, 26, '#ffe0a8'); }
+  const SCENES = SCN([sA, sB, sC, sD, sE, sF, sG]);
