@@ -107,3 +107,7 @@ engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when st
 ## 22 Nov (07:23 IST run) — NO new videos made (pipeline blocked)
 - upload.yml still fails (run #99, 22 Nov 00:33 UTC, same YouTube invalid_grant token error). 10 videos (37-42, 44-47) are pending; all slots through 26 Nov 07:00 are already filled. Building 3 more would only deepen an unpublishable backlog, so this run skipped production. Stats also stale (20 Nov snapshot).
 - Next free slots once uploads work: 26 Nov 13:00, 26 Nov 19:00, 27 Nov 07:00. Needs Aditya: re-authorize YouTube OAuth and update the GitHub secret.
+
+## 23 Nov (07:23 IST run) — NO new videos made (uploads still blocked)
+- upload.yml run #107 (23 Nov 00:39 UTC) failed again; last success was 20 Nov. 10 videos (37-42, 44-47) are pending; 37 (23 Nov 07:00) is already overdue. Queue slots filled through 26 Nov 07:00, so making 3 more would deepen an unpublishable backlog. Stats still the 20 Nov snapshot (7,997 views, 7 subs).
+- Needs Aditya: re-authorize YouTube OAuth and update the GitHub secret. Next free slots after fix: 26 Nov 13:00, 19:00, 27 Nov 07:00.
