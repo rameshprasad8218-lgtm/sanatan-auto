@@ -111,3 +111,7 @@ engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when st
 ## 23 Nov (07:23 IST run) — NO new videos made (uploads still blocked)
 - upload.yml run #107 (23 Nov 00:39 UTC) failed again; last success was 20 Nov. 10 videos (37-42, 44-47) are pending; 37 (23 Nov 07:00) is already overdue. Queue slots filled through 26 Nov 07:00, so making 3 more would deepen an unpublishable backlog. Stats still the 20 Nov snapshot (7,997 views, 7 subs).
 - Needs Aditya: re-authorize YouTube OAuth and update the GitHub secret. Next free slots after fix: 26 Nov 13:00, 19:00, 27 Nov 07:00.
+
+## 24 Nov (07:23 IST run) — NO new videos made (uploads still blocked)
+- upload.yml run #115 (24 Nov 00:42 UTC) failed again (YouTube OAuth invalid_grant, last success 20 Nov). 10 videos (37-42, 44-47) pending; 37-40 (23 Nov 07:00 .. 24 Nov 13:00) are already overdue, so Dev Diwali/Kartik Purnima timing (38 Gajendra, 40 Neelkanth) is being missed. Queue slots filled through 26 Nov 07:00; more videos would only deepen the backlog.
+- Needs Aditya: re-authorize YouTube OAuth and update the GitHub secret (Claude never touches secrets). Next free slots after fix: 26 Nov 13:00, 19:00, 27 Nov 07:00 (consider re-slotting overdue videos to publish soon).
