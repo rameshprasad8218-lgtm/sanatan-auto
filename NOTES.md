@@ -115,3 +115,6 @@ engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when st
 ## 24 Nov (07:23 IST run) — NO new videos made (uploads still blocked)
 - upload.yml run #115 (24 Nov 00:42 UTC) failed again (YouTube OAuth invalid_grant, last success 20 Nov). 10 videos (37-42, 44-47) pending; 37-40 (23 Nov 07:00 .. 24 Nov 13:00) are already overdue, so Dev Diwali/Kartik Purnima timing (38 Gajendra, 40 Neelkanth) is being missed. Queue slots filled through 26 Nov 07:00; more videos would only deepen the backlog.
 - Needs Aditya: re-authorize YouTube OAuth and update the GitHub secret (Claude never touches secrets). Next free slots after fix: 26 Nov 13:00, 19:00, 27 Nov 07:00 (consider re-slotting overdue videos to publish soon).
+
+## 24 Nov (manual, Aditya away) — Kumbh series started
+- Aditya: daily detailed Haridwar Kumbh series, auto-upload, no permission. Built 48_kumbh_series_1 (engine parts/kumbh1_30.js; "Kumbh Series #1", facts: Haridwar Kumbh 14 Jan-20 Apr 2027 per mela admin; samudra manthan as lokmanyata). Re-slotted overdue 37-41,44 to 26 Nov 13:00 .. 28 Nov 07:00 so they don't flood when upload resumes. vidIQ can only publish to Narayan Road Carriers, NOT Sanatan Dharm. Still blocked by YT_REFRESH_TOKEN invalid_grant. Next Kumbh eps: Kumbh ke 4 sthan/Ganga snan महत्व, akhade & Naga sadhu, Amrit snan dates, Har ki Pauri, Mahakumbh vs Ardh.
