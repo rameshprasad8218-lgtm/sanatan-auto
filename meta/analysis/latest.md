@@ -1,11 +1,11 @@
-# Sanatan Dharm — Daily Analysis (2026-11-23)
+# Sanatan Dharm — Daily Analysis (2026-11-24)
 
-Window: next 2 days of new content. queue.json is filled through Thu 26 Nov 07:00 (47 Kamdev). First free slots: **26 Nov 13:00, 26 Nov 19:00, 27 Nov 07:00 / 13:00 / 19:00** (IST slots 07:00 / 13:00 / 19:00).
+Run date: Tue 24 Nov 2026. Window: next 2 days of new content. queue.json is filled through Thu 26 Nov 07:00 (47 Kamdev). First free slots: **26 Nov 13:00, 26 Nov 19:00, 27 Nov 07:00 / 13:00 / 19:00** (IST slots 07:00 / 13:00 / 19:00).
 
 Already posted or queued (do not repeat): Chhath x9, Mangalwar chicken, Tirupati, Kashi, Nimbu-mirchi, Jagannath, Vrinda-Shaligram, Nariyal, Vidur-kela, Hanuman sindoor, Ekadashi-chawal, Hanuman seena, Ganesh-Tulsi, Sakshi Gopal, Tripurari, Vishnu-neend, Shabari, Sudama, Bhishma, Karna-kavach, Vishnu-aankh, Lakshman-neend, Ekalavya, Hanuman-Sanjeevani, Ram Setu, Gajendra Moksha, Draupadi-pallu, Shiv Neelkanth, Kunti-Karna, Yashoda-Brahmand, Ujjain Mahakal, channel-support, Prahlad-Narasimha, Matsya, Kamdev.
 
-## BLOCKER (still open)
-Uploads are still failing: GitHub Actions `upload` runs #103-#106 (22 Nov 12:37-21:30 UTC) all concluded `failure`, and queue items 37-42 and 44-47 are still `pending` (nothing published since 22 Nov). Cause per NOTES.md: YouTube OAuth refresh token expired/revoked (invalid_grant). meta/stats.json is still the 20 Nov snapshot (7,997 views, 7 subs, 30 videos). Aditya must re-authorize YouTube and update the GitHub secret. Until then no new video should be produced.
+## BLOCKER (still open, day 4)
+Uploads are still failing: GitHub Actions `upload` runs #108-#114 (23 Nov 03:48-21:39 UTC) all concluded `failure`, and queue items 37-42 and 44-47 are still `pending` (nothing published since 22 Nov; 37-39 and 40 already overdue). Cause per NOTES.md: YouTube OAuth refresh token expired/revoked (invalid_grant). meta/stats.json is still the 20 Nov snapshot (file touched 24 Nov but counts unchanged) (7,997 views, 7 subs, 30 videos). Aditya must re-authorize YouTube and update the GitHub secret. Until then no new video should be produced.
 
 ## Own channel snapshot (meta/stats.json, 20 Nov; unchanged)
 Top: Kharna Kya Hai 1,277 / 41 likes; Mangalwar chicken 897; Hanuman seena 878 / 38 likes (4.3%); Kharna Kheer 706; Hanuman sindoor 379 / 27 (7%). Cut-out tests Shabari 52, Sudama 33. Famous Hanuman/Ram "क्यों" titles carry views; the visual style alone did not.
@@ -38,8 +38,8 @@ Top: Kharna Kya Hai 1,277 / 41 likes; Mangalwar chicken 897; Hanuman seena 878 /
 Skipped as unsafe: viral "Bajrangbali saved a train/bus" real-miracle claims; unverifiable.
 
 ## Festival calendar (next 7 days + just after)
-- Mon 23 Nov: Vaikuntha Chaturdashi (Bhaktibharat, hindu-blog).
-- Tue 24 Nov: Kartik Purnima / Dev Diwali / Tripurari Purnima (Drik Panchang Kartika page, hindu-blog, HinduTone, Ganeshaspeaks, Boldsky); Guru Nanak Jayanti.
+- Mon 23 Nov (past): Vaikuntha Chaturdashi.
+- Tue 24 Nov (today): Kartik Purnima / Dev Diwali / Tripurari Purnima (Drik Panchang Kartika page, hindu-blog, HinduTone, Ganeshaspeaks, Boldsky); Guru Nanak Jayanti.
 - Wed 25 Nov: Margashirsha begins in North India (hindu-blog, Bhaktibharat Margashirsha page).
 - Fri 27 Nov: Ganadhipa Sankashti Chaturthi (HinduTone, Hindupad); moonrise time varies by city.
 - Sat 28 Nov: Annapurna-related observance, single source, unverified.
@@ -54,3 +54,6 @@ Note: search tool returned page titles only today, so the 1/4 Dec dates rest on 
 
 ## Retention recommendation
 First frame = character face and the question as the first spoken word (no intro); deliver the emotional reversal by ~20 s; end with a line that loops to the opening question so replays count. Add one short voice CTA "अगली कहानी के लिए Subscribe" right after the peak (subs 7 vs ~8k views). And restore the YouTube token first: nothing has published since 22 Nov.
+
+## 24 Nov re-check
+WebSearch again returned page titles only (Drik Panchang December 2026, Margashirsha page, Kalabhairav Jayanti 2026 page, HinduTone December 2026, hindupad, hindu-blog); no dates contradicted the list above. Ideas 1-6 are unchanged because nothing new was produced or published since yesterday; none repeat queue.json. Retention recommendation unchanged.
