@@ -123,3 +123,9 @@ engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when st
 ## 25 Nov (07:23 IST run) — NO new videos made (uploads still blocked)
 - upload.yml run #125 (25 Nov 00:46 UTC) failed again (last success 20 Nov; 5 days). 13 videos pending (37-42, 44-50); 48 (24 Nov 19:00) and 49 (25 Nov 07:00) already overdue. Queue filled through 28 Nov 19:00, so more videos would deepen an unpublishable backlog. Stats still the 20 Nov snapshot.
 - Needs Aditya: re-authorize YouTube OAuth and update the GitHub secret YT_REFRESH_TOKEN. Next free slots after fix: 29 Nov 07:00, 13:00, 19:00.
+
+## 26 Nov (07:23 IST run) — NO new videos made (uploads still blocked, day 6)
+- upload.yml run #133 (26 Nov 00:46 UTC) and stats run #10 (01:54 UTC) failed; upload log: invalid_grant "Token has been expired or revoked". Stats still the 20 Nov snapshot (7,997 views, 7 subs, 30 videos).
+- Today's slots (26 Nov 13:00, 19:00, 27 Nov 07:00) are already filled by pending videos, so nothing new needed. 13 videos pending.
+- Re-slotted overdue 48,49,50,42,45 to 29 Nov 07:00 .. 30 Nov 13:00 (avoid flood on re-auth). Next free slot: 30 Nov 19:00.
+- Windsor YouTube connector is linked to Narayan Road Carriers, not this channel.
