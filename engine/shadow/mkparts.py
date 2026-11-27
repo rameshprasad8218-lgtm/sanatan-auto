@@ -14,7 +14,10 @@ KIT=r'''
   const TRI = { skin: '#b98a66', cloth: '#6a5a8a', cloth2: '#4a3a6a', cloth3: 'rgba(255,255,255,0.15)', head: { hair: 'bun', hc: '#c9c9cf', old: true, smile: 0.3 } };
   const VIS = { skin: '#5b8fd1', cloth: '#f4cd4c', cloth2: '#f0e6c8', cloth3: 'rgba(200,60,60,0.4)', head: { hair: 'jata', hc: '#14101a', crown: true, tilak: true, earring: true, smile: 0.4 } };
   const BRH = { skin: '#d98a5a', cloth: '#f4f0e6', cloth2: '#f4f0e6', cloth3: 'rgba(0,0,0,0.1)', head: { hair: 'bun', hc: '#e6e6ea', old: true, tilak: true, smile: 0.3, post: (c, r) => zbeard(c, r, '#ecebef') } };
-  const CH = { ind: IND, ram: RAM, lak: LAK, han: HAN, shv: SHV, vai: VAI, sadhu: SADHU, naga: NAGA, devi: DEVI, urm: URM, kar: KAR, kum: KUM, tri: TRI, vis: VIS, brh: BRH };
+  const VIB = { skin: '#c98e62', cloth: '#2f6f8f', cloth2: '#f1e3c0', cloth3: 'rgba(255,255,255,0.18)', head: { hair: 'bun', hc: '#14101a', crown: true, tilak: true, earring: true, smile: 0.3 } };
+  const BHM = { skin: '#6f6a58', cloth: '#4a1f3a', cloth2: '#8a5a2a', cloth3: 'rgba(0,0,0,0.2)', head: { hair: 'jata', hc: '#0d0a08', brow: 0.25, wide: 0.1, smile: 0, post: (c, r) => zbeard(c, r, '#1c1410') } };
+  const RAVF = { skin: '#9a6a4a', cloth: '#7a1f1f', cloth2: '#e8b84a', cloth3: 'rgba(0,0,0,0.2)', head: { hair: 'bun', hc: '#111', crown: true, tilak: true, earring: true, brow: 0.25, smile: 0 } };
+  const CH = { vib: VIB, bhm: BHM, rav10: RAVF, ind: IND, ram: RAM, lak: LAK, han: HAN, shv: SHV, vai: VAI, sadhu: SADHU, naga: NAGA, devi: DEVI, urm: URM, kar: KAR, kum: KUM, tri: TRI, vis: VIS, brh: BRH };
   function chFace(c, t, who, x, y, r, emo) { const p = CH[who]; zface(c, x, y, r, Object.assign({}, p.head, { skin: p.skin }, emo || {}, { blink: (emo && emo.blink != null) ? emo.blink : zblink(t, 0.5) })); }
   function bgK(c, t, k, sy) { const p = PAL[k] || PAL.night; zsky(c, t, p[0], p[1], 540, sy == null ? -700 : sy, 'rgba(255,220,150,0.5)'); if (k === 'night' || k === 'purple' || k === 'snow') zstars(c, t, 40); }
   function treesK(c, t, y, col, n, sc) { c.fillStyle = col; for (let i = 0; i < n; i++) { const x = i * (1180 / n) - 50 + Math.sin(t * 0.8 + i) * 4, h = (160 + (i * 53 % 90)) * sc; c.beginPath(); c.moveTo(x - 60 * sc, y); c.lineTo(x, y - h); c.lineTo(x + 60 * sc, y); c.closePath(); c.fill(); } }
@@ -71,6 +74,7 @@ def gen(name,scenes,hot,h1,h2,h3):
     json.dump({"hot":hot,"h1":h1,"h2":h2,"h3":h3},open(P+name+'.json','w'),ensure_ascii=False)
 if __name__=='__main__':
     from specs1 import SPECS
+    from specs2 import SPECS as S2; SPECS.update(S2)
     names=sys.argv[1:] or list(SPECS)
     for n in names:
         sp=SPECS[n]; gen(n,sp['scenes'],sp['hot'],sp['h1'],sp['h2'],sp['h3']); print('gen',n)
