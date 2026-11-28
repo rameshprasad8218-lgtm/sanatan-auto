@@ -146,3 +146,9 @@ engine/shadow/lib/anime.umd.min.js (MIT) embedded by build_story_gods.py when st
 - Lessons (20 Nov snapshot, only data available): (1) "क्यों" titles median 112 views (n=18) vs 121 without (n=6): topic matters more than the word; (2) Hanuman stories 878 and 379 views vs ~120 median: put a Hanuman hook in series episodes where honest; (3) 7 subs on 7,997 views (<0.1%): keep a comment CTA in every video.
 - Fact note: Haridwar 2027 is an Ardh Kumbh (last Purna Kumbh 2021), celebrated on Purna Kumbh scale per CM Dhami. Word series copy accordingly.
 - Engine: specs2.py added (new specs go there), presets vib/bhm/rav10 in mkparts.py, watermark now HINDUTVA SANATAN DHARM KATHA. Fresh container: pip install kokoro-onnx soundfile, assets in ~/sd/assets, mk_tts.py written to ~/sd reading scripts_new.STORIES2, `npm i` in engine/shadow, then run1.sh <name> <NN_name> '<events>' (needs ~/sd/venv/bin/python only for pipe1.sh).
+
+## 28 Nov (07:23 IST run) — 69 Jambavan, 70 Har ki Pauri aarti, 71 Vaidyanath
+- Slots: 69 5 Dec 19:00, 70 6 Dec 07:00, 71 6 Dec 13:00 (pending). Next free slot: 6 Dec 19:00.
+- Upload: YT token not retried by hand; upload.yml "success" only because nothing pending is due within 48 h. 66-71 need the Studio browser route; first deadline 4 Dec 19:00 IST.
+- Lessons: (1) own data stale 8 days (7,997 views, 7 subs): no retention conclusions until a fresh export; (2) Hanuman videos 878 and 379 views vs ~120 median, so ep 69 leads with Hanuman; compare it with 66-68 after 5 Dec; (3) 6 videos pending, 8+ days of schedule filled.
+- Engine: mkparts.py now has jam/gwl characters, kinds 'aarti' and 'grow'. Fresh container: render needs CHROME=/opt/pw-browsers/chromium-*/chrome-linux64/chrome; run1.sh calls system python3 for sfx.py, so pip install soundfile numpy there first (or run sfx.py with ~/sd/venv/bin/python); mkdir engine/shadow/out. mk_tts.py supports a "show" map (caption digits vs spoken words).

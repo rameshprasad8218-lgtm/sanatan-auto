@@ -25,3 +25,30 @@ SPECS={
  dict(k='trish',sky='purple',fl=0.7,shake=0.7,title='महादेव प्रकट'),
  F('भीमाशंकर','हर हर महादेव',k='lingam',land='mount')]),
 }
+
+SPECS.update({
+'ank8_jambavan':dict(hot=['हनुमान','जामवंत','शक्ति','सागर','सीता','श्राप','लंका','बजरंगबली'],h1='हनुमान जी अपनी शक्ति',h2='क्यों भूल गए थे?',h3='Ramayan ke Ankahe Patra #8',scenes=[
+ dict(k='face',who='han',sky='dusk',land='river',y=1200,emo=dict(smile=0.1)),
+ dict(k='crowd',who=['han','jam','han'],gap=320,r=130,sky='purple',land='river',title='सौ योजन सागर',ts=110),
+ dict(k='face',who='han',sky='night',land='river',y=1250,emo=dict(blink=1,smile=0.1),title='हनुमान जी चुप'),
+ dict(k='two',who=['sadhu','han'],sky='ember',land='forest',title='ऋषियों का श्राप',ts=105,emo=[dict(brow=0.25,smile=0),dict(smile=0.6)]),
+ dict(k='face',who='jam',sky='dawn',land='mount',title='जामवंत बोले'),
+ dict(k='grow',sky='gold',land='mount',fl=0.5,shake=0.5,title='विशाल रूप!'),
+ F('जय बजरंगबली','कमेंट में लिखें',land='river')]),
+'kum8_aarti':dict(hot=['गंगा','आरती','हर','पौड़ी','घंटियाँ','दीप','मालवीय','गंगे'],h1='हर की पौड़ी की',h2='आरती इतनी खास क्यों?',h3='Kumbh Series #8',scenes=[
+ dict(k='aarti',sky='night',land='ghat'),
+ dict(k='cards',sky='dawn',land='ghat',items=[['सुबह','मंगला आरती'],['शाम','श्रृंगार आरती']],cy=700,isz=92,title='रोज़ दो बार'),
+ dict(k='aarti',sky='dusk',land='ghat',title='घंटे और शंख'),
+ dict(k='aarti',sky='purple',land='ghat',y=1130,s=0.9,title='जलते दीप',sub='माँ गंगा के नाम',sy=480),
+ dict(k='cards',sky='night',land='ghat',items=[['१९१६','पंडित मदन मोहन मालवीय']],cy=900,isz=130,title='श्री गंगा सभा'),
+ dict(k='crowd',who=['sadhu','devi','gwl'],gap=320,r=130,y=1100,sky='sea',land='ghat',title='कुंभ 2027',sub='भारी भीड़, जल्दी पहुँचें',sy=480,ss=72),
+ F('हर हर गंगे','कमेंट में लिखें',k='aarti',land='ghat',rays=900,sun=None)]),
+'jyo8_vaidya':dict(hot=['रावण','शिवलिंग','लंका','महादेव','शिव','शर्त','ग्वाले','वैद्यनाथ'],h1='रावण शिवलिंग को',h2='लंका क्यों न ले जा सका?',h3='Jyotirling Yatra #8',scenes=[
+ dict(k='two',who=['rav10','shv'],sky='ember',emo=[dict(brow=0.2),dict(smile=0.4)]),
+ dict(k='face',who='rav10',sky='snow',land='snow',emo=dict(blink=1,smile=0),title='रावण की तपस्या',ts=105),
+ dict(k='lingam',sky='purple',title='एक शर्त',fl=1.2),
+ dict(k='two',who=['rav10','gwl'],sky='dusk',land='forest',title='रास्ते में रुका',emo=[dict(brow=0.15),dict(smile=0.5)]),
+ dict(k='face',who='gwl',sky='dawn',land='forest',title='ग्वाले को सौंपा'),
+ dict(k='lingam',sky='night',land='ground',shake=1.0,fl=1.0,title='वहीं स्थापित!'),
+ F('बाबा वैद्यनाथ','हर हर महादेव',k='lingam',land='temple')]),
+})
